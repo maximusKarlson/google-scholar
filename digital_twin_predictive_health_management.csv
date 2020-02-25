@@ -1,0 +1,111 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+1,"Lee, E Lapira, B Bagheri, H Kao",Recent advances and trends in predictive manufacturing systems in big data environment,650,2013,https://www.sciencedirect.com/science/article/pii/S2213846313000114,81
+24,"Tao, J Cheng, Q Qi, M Zhang, H Zhang…","Digital twin-driven product design, manufacturing and service with big data",379,2018,https://link.springer.com/article/10.1007/s00170-017-0233-1,126
+7,"Glaessgen, D Stargel",The digital twin paradigm for future NASA and US Air Force vehicles,336,2012,https://arc.aiaa.org/doi/pdf/10.2514/6.2012-1818,37
+9," Tuegel, AR Ingraffea, TG Eason…",Reengineering aircraft structural life prediction using a digital twin,234,2011,https://www.hindawi.com/journals/ijae/2011/154798/abs/,23
+16,"Negri, L Fumagalli, M Macchi",A review of the roles of digital twin in cps-based production systems,174,2017,https://www.sciencedirect.com/science/article/pii/S2351978917304067,44
+18,"Qi, F Tao",Digital twin and big data towards smart manufacturing and industry 4.0: 360 degree comparison,153,2018,https://ieeexplore.ieee.org/abstract/document/8258937/,51
+30,"Kritzinger, M Karner, G Traar, J Henjes, W Sihn",Digital Twin in manufacturing: A categorical literature review and classification,74,2018,https://www.sciencedirect.com/science/article/pii/S2405896318316021,25
+12,"Zhuang, J Liu, H Xiong",Digital twin-based smart production management and control framework for the complex product assembly shop-floor,65,2018,https://link.springer.com/article/10.1007/s00170-018-1617-6,22
+20,"Tao, F Sui, A Liu, Q Qi, M Zhang, B Song…",Digital twin-driven product design framework,61,2019,https://www.tandfonline.com/doi/abs/10.1080/00207543.2018.1443229,30
+10,"Tao, F Sui, A Liu, Q Qi, M Zhang, B Song…",Digital twin-driven product design framework,61,2019,https://www.tandfonline.com/doi/abs/10.1080/00207543.2018.1443229,30
+13,"Tao, H Zhang, A Liu, AYC Nee",Digital twin in industry: State-of-the-art,47,2018,https://ieeexplore.ieee.org/abstract/document/8477101/,16
+23,"Qi, F Tao, Y Zuo, D Zhao",Digital twin service towards smart manufacturing,39,2018,https://www.sciencedirect.com/science/article/pii/S2212827118302580,13
+34,Tuegel,The airframe digital twin: some challenges to realization,34,2012,https://arc.aiaa.org/doi/pdf/10.2514/6.2012-1812,4
+64,"Mohammadi, JE Taylor",Smart city digital twins,33,2017,https://ieeexplore.ieee.org/abstract/document/8285439/,8
+15,"Reifsnider, P Majumdar",Multiphysics stimulated simulation digital twin methods for fleet management,27,2013,https://arc.aiaa.org/doi/pdf/10.2514/6.2013-1578,3
+41,"Zheng, S Yang, H Cheng",An application framework of digital twin and its case study,26,2019,https://link.springer.com/article/10.1007/s12652-018-0911-3,13
+52,"Lu, X Xu",Resource virtualization: a core technology for developing cyber-physical production systems,26,2018,https://www.sciencedirect.com/science/article/pii/S0278612518300657,9
+5," Madni, CC Madni, SD Lucero",Leveraging digital twin technology in model-based systems engineering,25,2019,https://www.mdpi.com/2079-8954/7/1/7,12
+36,"Luo, T Hu, C Zhang, Y Wei",Digital twin for CNC machine tool: modeling and using strategy,18,2019,https://link.springer.com/article/10.1007/s12652-018-0946-5,9
+32,"Macchi, I Roda, E Negri, L Fumagalli",Exploring the role of digital twin for asset lifecycle management,18,2018,https://www.sciencedirect.com/science/article/pii/S2405896318315416,6
+2,"Magargle, L Johnson, P Mandloi…",A simulation-based digital twin for model-driven health monitoring and predictive maintenance of an automotive braking system,18,2017,http://www.ep.liu.se/ecp/article.asp?issue=132&article=003&volume=,4
+3,"Liu, N Meyendorf, N Mrad",The role of data fusion in predictive maintenance using digital twin,16,2018,https://aip.scitation.org/doi/abs/10.1063/1.5031520,5
+29,"Tao, M Zhang, AYC Nee",Digital twin driven smart manufacturing,16,2019,https://books.google.com/books?hl=en&lr=&id=PvKGDwAAQBAJ&oi=fnd&pg=PP1&dq=digital+twin+predictive+health+management&ots=hk_pOOLegm&sig=GJgEmeb8E4Dju0s-llQzyipkH9o,8
+42,"Eckhart, A Ekelhart",Towards security-aware virtual environments for digital twins,15,2018,https://dl.acm.org/doi/abs/10.1145/3198458.3198464,5
+4," Seshadri, T Krishnamurthy",Structural health management of damaged aircraft structures using digital twin concept,15,2017,https://arc.aiaa.org/doi/pdf/10.2514/6.2017-1675,4
+35,"Lohtander, N Ahonen, M Lanz, J Ratava…",Micro manufacturing unit and the corresponding 3D-model for the digital twin,13,2018,https://www.sciencedirect.com/science/article/pii/S2351978918305766,4
+28,"Bao, D Guo, J Li, J Zhang",The modelling and operations for the digital twin in the context of manufacturing,13,2019,https://www.tandfonline.com/doi/abs/10.1080/17517575.2018.1526324,6
+46,"Sivalingam, M Sepulveda, M Spring…",A review and methodology development for remaining useful life prediction of offshore fixed and floating wind turbine power converter with digital twin technology …,11,2018,https://ieeexplore.ieee.org/abstract/document/8356292/,4
+25,"Wang, L Ye, RX Gao, C Li, L Zhang",Digital Twin for rotating machinery fault diagnosis in smart manufacturing,11,2019,https://www.tandfonline.com/doi/abs/10.1080/00207543.2018.1552032,6
+70,"Mukherjee, T DebRoy",A digital twin for rapid qualification of 3D printed metallic components,10,2019,https://www.sciencedirect.com/science/article/pii/S2352940718304931,5
+73,Zobe,Accelerating Biologics Manufacturing by Modeling or: Is Approval under the QbD and PAT Approaches Demanded by Authorities Acceptable without a Digital-Twin?,10,2019,https://www.mdpi.com/2227-9717/7/2/94,5
+40," Zakrajsek, S Mall",The development and use of a digital twin model for tire touchdown health monitoring,9,2017,https://arc.aiaa.org/doi/pdf/10.2514/6.2017-0863,2
+39,"Vathoopan, M Johny, A Zoitl, A Knoll",Modular fault ascription and corrective maintenance using a digital twin,9,2018,https://www.sciencedirect.com/science/article/pii/S2405896318315982,3
+48,"Koulamas, A Kalogeras",Cyber-physical systems and digital twins in the industrial internet of things [cyber-physical systems],8,2018,https://ieeexplore.ieee.org/abstract/document/8625931/,3
+56,Poddar,"Digital Twin Bridging Intelligence Among Man, Machine and Environment",8,2018,https://www.onepetro.org/conference-paper/OTC-28480-MS,3
+6,"Lee, C Jin, Z Liu",Predictive big data analytics and cyber physical systems for TES systems,8,2017,https://link.springer.com/chapter/10.1007/978-3-319-49938-3_7,2
+14,"Liu, L Zhang, Y Yang, L Zhou, L Ren, F Wang…",A novel cloud-based framework for the elderly healthcare services using digital twin,8,2019,https://ieeexplore.ieee.org/abstract/document/8686260/,4
+26,"Renzi, D Maniar, S McNeill, C Del Vecchio",Developing a digital twin for floating production systems integrity management,8,2017,https://www.onepetro.org/conference-paper/OTC-28012-MS,2
+43,"David, A Lobov, M Lanz",Leveraging digital twins for assisted learning of flexible manufacturing systems,7,2018,https://ieeexplore.ieee.org/abstract/document/8472083/,2
+82,"Zhang, G Zhang, Q Yan",Digital twin-driven cyber-physical production system towards smart shop-floor,7,2019,https://link.springer.com/article/10.1007/s12652-018-1125-4,4
+53,Damjanovi,A digital twin-based privacy enhancement mechanism for the automotive industry,7,2018,https://ieeexplore.ieee.org/abstract/document/8710526/,2
+51,"Aivaliotis, K Georgoulias…",A RUL calculation approach based on physical-based simulation models for predictive maintenance,7,2017,https://ieeexplore.ieee.org/abstract/document/8280022/,2
+63,"Kannan, N Arunachalam",A digital twin for grinding wheel: an information sharing platform for sustainable grinding process,7,2019,https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/141/2/021015/477555,4
+37, Gregory,Self-Aware Vehicles: Mission and Performance Adaptation to System Health Degradation,6,2016,https://arc.aiaa.org/doi/pdf/10.2514/6.2016-3165,1
+45,"Zhou, C Zhang, Z Li, K Ding…",Knowledge-driven digital twin manufacturing cell towards intelligent manufacturing,6,2019,https://www.tandfonline.com/doi/abs/10.1080/00207543.2019.1607978,3
+59,"Qi, D Zhao, TW Liao, F Tao","Modeling of cyber-physical systems and digital twin based on edge computing, fog computing and cloud computing towards smart manufacturing",6,2018,https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2018/277806,2
+75,"Xie, X Wang, Z Yang, S Hao",Virtual monitoring method for hydraulic supports based on digital twin theory,5,2019,https://www.tandfonline.com/doi/abs/10.1080/25726668.2019.1569367,2
+98,"Saini, P Ashok, E van Oort, MR Isbell",Accelerating Well Construction Using a Digital Twin Demonstrated on Unconventional Well Data in North America,4,2018,https://library.seg.org/doi/abs/10.15530/urtec-2018-2902186,1
+57," Chhetri, S Faezi, M Faruque",Digital twin of manufacturing systems,4,2017,https://pdfs.semanticscholar.org/aedc/a549ee88b684b30c54eb223944a1e64fb092.pdf,1
+86, Smith,Getting value from artificial intelligence in agriculture,4,2020,http://www.publish.csiro.au/an/AN18522,4
+83," Martínez, S Sierla, T Karhela…",Automatic Generation of a Simulation-Based Digital Twin of an Industrial Process Plant,4,2018,https://ieeexplore.ieee.org/abstract/document/8591464/,1
+72,"P Kumar, R Madhumathi, PR Chelliah, L Tao…",A novel digital twin-centric approach for driver intention prediction and traffic congestion avoidance,4,2018,https://link.springer.com/article/10.1007/s40860-018-0069-y,1
+17, Ross,Integrated vehicle health management in aerospace structures,4,2016,https://www.sciencedirect.com/science/article/pii/B9780081001486000019,1
+8,"Aivaliotis, K Georgoulias, Z Arkouli, S Makris",Methodology for enabling digital twin using advanced physics-based modelling in predictive maintenance,4,0,https://www.programs-project.eu/wp-content/uploads/2019/09/Methodology-for-enabling-Digital-Twin-using-advanced-physics-based-modelling-in-predictive-maintenance.pdf,0
+71,Føllesdal Tjønn,Digital Twin Through the Life of a Field,3,2018,https://www.onepetro.org/conference-paper/SPE-193203-MS,1
+69,"Detzner, M Eigner",A digital twin for root cause analysis and product quality monitoring,3,2018,https://www.designsociety.org/publication/40558/A+DIGITAL+TWIN+FOR+ROOT+CAUSE+ANALYSIS+AND+PRODUCT+QUALITY+MONITORING,1
+106,"Lukowski, A Rauch, T Rosendahl",The virtual representation of the world is emerging,3,2019,https://link.springer.com/chapter/10.1007/978-3-319-77724-5_14,2
+49,"Zhang, Y Zuo, F Tao",Equipment energy consumption management in digital twin shop-floor: A framework and potential applications,3,2018,https://ieeexplore.ieee.org/abstract/document/8361272/,1
+50,"Verdouw, JW Kruize",Digital twins in farm management: illustrations from the FIWARE accelerators SmartAgriFood and Fractals,3,2017,https://www.researchgate.net/profile/Cor_Verdouw/publication/322886729_Digital_twins_in_farm_management_illustrations_from_the_FIWARE_accelerators_SmartAgriFood_and_Fractals/links/5b2cf5eaaca2720785d7c121/Digital-twins-in-farm-management-illustrations-from-the-FIWARE-accelerators-SmartAgriFood-and-Fractals.pdf,1
+104," Leser, J Warner",A diagnosis-prognosis feedback loop for improved performance under uncertainties,2,2017,https://arc.aiaa.org/doi/pdf/10.2514/6.2017-1564,0
+54,"Voell, P Chatterjee, A Rauch…",How digital twins enable the next level of PLM–A guide for the concept and the implementation in the Internet of Everything Era,2,2018,https://link.springer.com/chapter/10.1007/978-3-030-01614-2_22,1
+85,Zborowski,"Finding Meaning, Application for the Much-Discussed “Digital Twin”",2,2018,https://www.onepetro.org/journal-paper/SPE-0618-0026-JPT,1
+47,"Qi, F Tao, T Hu, N Anwer, A Liu, Y Wei…",Enabling technologies and tools for digital twin,2,2019,https://www.sciencedirect.com/science/article/pii/S027861251930086X,1
+81,Klenz,How to Use Streaming Analytics to Create a Real-Time Digital Twin,2,2018,https://pdfs.semanticscholar.org/0226/a5cf4ebb34d8ef8758aed0130f9d3f7d662c.pdf,1
+80," Chhetri, S Faezi, A Canedo…",QUILT: quality inference from living digital twins in IoT-enabled manufacturing systems,2,2019,https://dl.acm.org/doi/abs/10.1145/3302505.3310085,1
+94,"Meierhofer, S West",Service value creation using a digital twin,2,2019,https://www.researchgate.net/profile/Shaun_West2/publication/333653525_SERVICE_VALUE_CREATION_USING_A_DIGITAL_TWIN/links/5cfa68b8299bf13a38443a21/SERVICE-VALUE-CREATION-USING-A-DIGITAL-TWIN.pdf,1
+91,"Jaensch, A Csiszar, C Scheifele…",Digital twins of manufacturing systems as a base for machine learning,2,2018,https://ieeexplore.ieee.org/abstract/document/8600844/,1
+90,"Lohtander, E Garcia, M Lanz, J Volotinen…",Micro Manufacturing Unit–Creating Digital Twin Objects with Common Engineering Software,2,2018,https://www.sciencedirect.com/science/article/pii/S2351978918311879,1
+74,"Sadjina, S Skjong, A Pobitzer…",Seismic RTDT: Real-Time Digital Twin for Boosting Performance of Seismic Operations,1,2019,https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2019/58844/V07AT06A040/1067958,0
+38,"Karakra, F Fontanili, E Lamine…",Pervasive computing integrated discrete event simulation for a hospital digital twin,1,2018,https://ieeexplore.ieee.org/abstract/document/8612796/,0
+92,"Fan, C Zhang, A Yahja, A Mostafavi",Disaster City Digital Twin: A vision for integrating artificial and human intelligence for disaster management,1,2019,https://www.sciencedirect.com/science/article/pii/S0268401219302956,0
+107,"Armendia, M Ghassempouri, E Ozturk, F Peysson",Twin-Control: A Digital Twin Approach to Improve Machine Tools Lifecycle,1,2019,https://books.google.com/books?hl=en&lr=&id=Eo2CDwAAQBAJ&oi=fnd&pg=PR7&dq=digital+twin+predictive+health+management&ots=rdoNCFail5&sig=86He0KxwpLcNPbF4NLj2JYg3JV8,0
+87," Uhlenkamp, K Hribernik, S Wellsandt…",Digital Twin Applications: A first systemization of their dimensions,1,2019,https://ieeexplore.ieee.org/abstract/document/8792579/,0
+100,"Zhou, J Yan, D Feng",Digital twin framework and its application to power grid online analysis,1,2019,https://ieeexplore.ieee.org/abstract/document/8779809/,0
+21,"Karakra, F Fontanili, E Lamine…",HospiT'Win: A Predictive Simulation-Based Digital Twin for Patients Pathways in Hospital,1,2019,https://ieeexplore.ieee.org/abstract/document/8834534/,0
+19,"Fuller, Z Fan, C Day","Digital Twin: Enabling Technology, Challenges and Open Research",1,2019,https://arxiv.org/abs/1911.01276,0
+103," Hershey, FW Wheeler, MC Nielsen…",Digital twin of twinned physical system,1,2017,https://patents.google.com/patent/US20170286572A1/en,0
+78,"Rasheed, O San, T Kvamsdal","Digital Twin: Values, Challenges and Enablers",1,2019,https://arxiv.org/abs/1910.01719,0
+102,LaGrange,Developing a Digital Twin: The Roadmap for Oil and Gas Optimization,1,2019,https://www.onepetro.org/conference-paper/SPE-195790-MS,0
+62,"Negri, HD Ardakani, L Cattaneo, J Singh, M Macchi…",A Digital Twin-based scheduling framework including Equipment Health Index and Genetic Algorithms,1,2019,https://www.sciencedirect.com/science/article/pii/S2405896319308791,0
+93,"Xiaodong, L Feng, R Junhua, L Rongyu",A Survey of Digital Twin Technology for PHM,0,2020,https://link.springer.com/chapter/10.1007/978-981-13-9406-5_48,0
+97,"H Kendrik, P Zheng, CH Chen","A State-of-the-Art Survey of Digital Twin: Techniques, Engineering Product Lifecycle Management and Business Innovation Perspectives",0,0,https://www.researchgate.net/profile/Pai_Zheng/publication/337185573_A_State-of-the-Art_Survey_of_Digital_Twin_Techniques_Engineering_Product_Lifecycle_Management_and_Business_Innovation_Perspectives/links/5dca6d57a6fdcc575040ec1b/A-State-of-the-Art-Survey-of-Digital-Twin-Techniques-Engineering-Product-Lifecycle-Management-and-Business-Innovation-Perspectives.pdf,0
+105,"Park, A Easwaran, S Andalam",Challenges in Digital Twin Development for Cyber-Physical Production Systems,0,2018,https://link.springer.com/chapter/10.1007/978-3-030-23703-5_2,0
+95,"E Jian, W XU, D CHENG…",Digital Twin-based Smart Building Management and Control Framework,0,0,http://www.dpi-proceedings.com/index.php/dtcse/article/view/29395,0
+96,"Balakrishnan, KR Babu, CD Naiju, M Madiajagan",Design and Implementation of Digital Twin for Predicting Failures in Automobiles Using Machine Learning Algorithms,0,2019,https://www.sae.org/publications/technical-papers/content/2019-28-0159/,0
+109,"SINGH, E SHEHAB, N HIGGINS…",Towards Effective Data Management or Digital Twin,0,2019,https://books.google.com/books?hl=en&lr=&id=_WOwDwAAQBAJ&oi=fnd&pg=PA167&dq=digital+twin+predictive+health+management&ots=Ni6PCt7eb4&sig=xNeczAXsj8-h7ZxjTI3PMvw3-9Y,0
+99,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+108," Johansen, AR Nejad",On Digital Twin Condition Monitoring Approach for Drivetrains in Marine Applications,0,2019,https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2019/58899/V010T09A013/1068245,0
+101,"H Lim, P Zheng, CH Chen","A state-of-the-art survey of Digital Twin: techniques, engineering product lifecycle management and business innovation perspectives",0,2019,https://link.springer.com/article/10.1007/s10845-019-01512-w,0
+33,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+89," Barricelli, E Casiraghi, D Fogli","A Survey on Digital Twin: Definitions, Characteristics, Applications, and Design Implications",0,2019,https://ieeexplore.ieee.org/abstract/document/8901113/,0
+88,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+31," Ezhilarasu, Z Skaf…",Understanding the role of a Digital Twin in Integrated Vehicle Health Management (IVHM)*,0,2019,https://ieeexplore.ieee.org/abstract/document/8914244/,0
+27,"Aivaliotis, K Georgoulias…",The use of Digital Twin for predictive maintenance in manufacturing,0,2019,https://www.tandfonline.com/doi/abs/10.1080/0951192X.2019.1686173,0
+22,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+44,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+55,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+58,"Campean, D Neagu, A Doikin…",Automotive IVHM: Towards Intelligent Personalised Systems Healthcare,0,2019,https://www.cambridge.org/core/journals/proceedings-of-the-international-conference-on-engineering-design/article/automotive-ivhm-towards-intelligent-personalised-systems-healthcare/E11794756246089915E04B1580E636F6,0
+60,"Knezevic, E Fakas, HJ Riber",Predictive Digital Twins for Structural Integrity Management and Asset Life Extension–JIP Concept and Results,0,2019,https://www.onepetro.org/conference-paper/SPE-195762-MS,0
+61," Akselos, EFRD Shell",PREDICTIVE DIGITAL TWINS FOR STRUCTURAL INTEGRITY MANAGEMENT AND ASSET LIFE EXTENSION–JIP CONCEPT AND RESULTS,0,0,https://akselos.com/wp-content/uploads/2019/09/SPE-195762-MS_Akselos.pdf,0
+11,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+65," Chowdhury, F Ali, IK Jennions",A Methodology for the Experimental Validation of an Aircraft ECS Digital Twin Targeting System Level Diagnostics,0,2019,http://phmpapers.org/index.php/phmconf/article/view/888,0
+66,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+67," Rivera, M Jiménez, P Angara, NM Villegas…",Towards continuous monitoring in personalized healthcare through digital twins,0,2019,https://dl.acm.org/doi/abs/10.5555/3370272.3370310,0
+68, Settemsdal,"Highly Scalable Digitalization Platform for Oil and Gas Operations Enables Total Asset Visibility for Predictive, Condition-Based Fleet Management Across Single and …",0,2019,https://www.onepetro.org/conference-paper/SPE-197820-MS,0
+76,"Liu, B Liu, G Wang, C Zhang",A comparative study on digital twin models,0,2019,https://aip.scitation.org/doi/abs/10.1063/1.5090745,0
+77,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0
+79," McGlothlin, S Vedire, H Srinivasan, A Madugula…",Predicting Hospital Capacity and Efficiency.,0,2018,https://www.scitepress.org/papers/2018/66589/66589.pdf,0
+84,"Thukaram, S Mohan",Digital Twins for Prognostic Profiling,0,2019,https://www.sae.org/publications/technical-papers/content/2019-28-2456/,0
+110,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=digital+twin+predictive+health+management&hl=en&as_sdt=0,5",0

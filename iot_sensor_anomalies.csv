@@ -1,0 +1,111 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+85,"Marjani, F Nasaruddin, A Gani, A Karim…","Big IoT data analytics: architecture, opportunities, and open research challenges",219,2017,https://ieeexplore.ieee.org/abstract/document/7888916/,55
+28,"Kwon, MR Hodkiewicz, J Fan, T Shibutani…",IoT-based prognostics and systems health management for industrial applications,91,2016,https://ieeexplore.ieee.org/abstract/document/7520653/,18
+10,"Ukil, S Bandyopadhyay, A Pal",IoT-privacy: To be private or not to be private,77,2014,https://ieeexplore.ieee.org/abstract/document/6849186/,11
+16,"Ukil, S Bandyopadhyay, A Pal",IoT-privacy: To be private or not to be private,77,2014,https://ieeexplore.ieee.org/abstract/document/6849186/,11
+35,"Rajasegarar, C Leckie, M Palaniswami",Hyperspherical cluster based distributed anomaly detection in wireless sensor networks,76,2014,https://www.sciencedirect.com/science/article/pii/S0743731513002013,11
+15,"Pacheco, S Hariri",IoT security framework for smart cyber infrastructures,74,2016,https://ieeexplore.ieee.org/abstract/document/7789475/,15
+60," Haque, M Rahman, SM Aziz",Sensor anomaly detection in wireless sensor networks for healthcare,62,2015,https://www.mdpi.com/1424-8220/15/4/8764,10
+23," Shanthamallu, A Spanias…",A brief survey of machine learning methods and their sensor and IoT applications,56,2017,https://ieeexplore.ieee.org/abstract/document/8316459/,14
+41," Rassam, A Zainal, MA Maarof",Advancements of data anomaly detection research in wireless sensor networks: a survey and open issues,56,2013,https://www.mdpi.com/1424-8220/13/8/10087,7
+57,"WJ Bosman, G Iacca, A Tejada, HJ Wörtche…",Spatial anomaly detection in sensor networks using neighborhood information,53,2017,https://www.sciencedirect.com/science/article/pii/S1566253516300252,13
+65,"Yan, LD Xu, Z Bi, Z Pang, J Zhang…",An emerging technology–wearable wireless sensor networks with applications in human health condition monitoring,51,2015,https://www.tandfonline.com/doi/abs/10.1080/23270012.2015.1029550,8
+9," Summerville, KM Zach…",Ultra-lightweight deep packet anomaly detection for Internet of Things devices,49,2015,https://ieeexplore.ieee.org/abstract/document/7410342/,8
+81,"Bostani, M Sheikhan",Hybrid of anomaly-based and specification-based IDS for Internet of Things using unsupervised OPF based on MapReduce approach,49,2017,https://www.sciencedirect.com/science/article/pii/S0140366416306387,12
+69,"A Habeeb, F Nasaruddin, A Gani…",Real-time big data processing for anomaly detection: A Survey,41,2019,https://www.sciencedirect.com/science/article/pii/S0268401218301658,20
+2,"Ukil, S Bandyoapdhyay, C Puri…",IoT healthcare analytics: The importance of anomaly detection,41,2016,https://ieeexplore.ieee.org/abstract/document/7474197/,8
+5,"Sedjelmaci, SM Senouci…",A lightweight anomaly detection technique for low-resource IoT devices: a game-theoretic methodology,39,2016,https://ieeexplore.ieee.org/abstract/document/7510811/,8
+39,"Sedjelmaci, SM Senouci…",An accurate security game for low-resource IoT devices,36,2017,https://ieeexplore.ieee.org/abstract/document/7920414/,9
+97,"Canedo, A Skjellum",Using machine learning to secure IoT systems,36,2016,https://ieeexplore.ieee.org/abstract/document/7906930/,7
+50,"Saeed, A Ahmadinia, A Javed, H Larijani",Intelligent intrusion detection in low-power IoTs,36,2016,https://dl.acm.org/doi/abs/10.1145/2990499,7
+53,"Yu, X Wang, A Shami",Recursive principal component analysis-based data outlier detection and sensor data aggregation in IoT systems,35,2017,https://ieeexplore.ieee.org/abstract/document/8048463/,9
+64,"Kanawaday, A Sane",Machine learning for predictive maintenance of industrial machines using IoT sensor data,33,2017,https://ieeexplore.ieee.org/abstract/document/8342870/,8
+27,"Shi, Q Liao, Y He, R Li, A Striegel…",SAVE: Sensor anomaly visualization engine,31,2011,https://ieeexplore.ieee.org/abstract/document/6102458/,3
+8,"Butun, B Kantarci…",Anomaly detection and privacy preservation in cloud-centric Internet of Things,29,2015,https://ieeexplore.ieee.org/abstract/document/7247572/,5
+3,"Lyu, J Jin, S Rajasegarar, X He…",Fog-empowered anomaly detection in IoT using hyperellipsoidal clustering,29,2017,https://ieeexplore.ieee.org/abstract/document/7936471/,7
+40,"Zheng, S Rajasegarar, C Leckie…",Smart car parking: temporal clustering and anomaly detection in urban car parking,28,2014,https://ieeexplore.ieee.org/abstract/document/6827618/,4
+78,"Wang, HT Vo, P Ni",An IoT application for fault diagnosis and prediction,27,2015,https://ieeexplore.ieee.org/abstract/document/7396580/,4
+4,"Arrington, LE Barnett, R Rufus…",Behavioral modeling intrusion detection system (bmids) using internet of things (iot) behavior-based anomaly detection via immunity-inspired algorithms,26,2016,https://ieeexplore.ieee.org/abstract/document/7568495/,5
+32,"Li, D Chen, J Goh, SK Ng",Anomaly detection with generative adversarial networks for multivariate time series,26,2018,https://arxiv.org/abs/1809.04758,9
+36,"Zhang, W Guo, X Liu, Y Liu, J Zhou, B Li, Q Lu…",LSTM-based analysis of industrial IoT equipment,24,2018,https://ieeexplore.ieee.org/abstract/document/8335287/,8
+70,"WJ Bosman, G Iacca, A Tejada, HJ Wörtche…",Ensembles of incremental learners to detect anomalies in ad hoc sensor networks,24,2015,https://www.sciencedirect.com/science/article/pii/S1570870515001481,4
+1,"Pacheco, S Hariri",Anomaly behavior analysis for IoT sensors,24,2018,https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3188,8
+19,"Tsitsiroudi, P Sarigiannidis…",EyeSim: A mobile application for visual-assisted wormhole attack detection in IoT-enabled WSNs,24,2016,https://ieeexplore.ieee.org/abstract/document/7543976/,5
+80,"Rajasegarar, A Gluhak, MA Imran, M Nati…",Ellipsoidal neighbourhood outlier factor for distributed anomaly detection in resource constrained networks,23,2014,https://www.sciencedirect.com/science/article/pii/S003132031400137X,3
+6,"Luo, SG Nagarajan",Distributed anomaly detection using autoencoder neural networks in wsn for iot,22,2018,https://ieeexplore.ieee.org/abstract/document/8422402/,7
+87,"Moustafa, J Hu, J Slay",A holistic review of Network Anomaly Detection Systems: A comprehensive survey,22,2019,https://www.sciencedirect.com/science/article/pii/S1084804518303886,11
+38,"Ukil, S Bandyopadhyay, A Pal",Iot data compression: Sensor-agnostic approach,22,2015,https://ieeexplore.ieee.org/abstract/document/7149287/,4
+105," Raafat, MS Hossain, E Essa, S Elmougy…",Fog intelligence for real-time IoT sensor data analytics,22,2017,https://ieeexplore.ieee.org/abstract/document/8047248/,6
+25," Desnitsky, IV Kotenko…",Detection of anomalies in data for monitoring of security components in the internet of things,20,2015,https://ieeexplore.ieee.org/abstract/document/7190452/,3
+86,"Trilles, S Schade, Ó Belmonte, J Huerta",Real-time anomaly detection from environmental data streams,18,2015,https://link.springer.com/chapter/10.1007/978-3-319-16787-9_8,3
+14,"Trilles, Ò Belmonte, S Schade…",A domain-independent methodology to analyze IoT data streams in real-time. A proof of concept implementation for anomaly detection from environmental data,18,2017,https://www.tandfonline.com/doi/abs/10.1080/17538947.2016.1209583,4
+61,"Golomb, Y Mirsky, Y Elovici",Ciota: Collaborative iot anomaly detection via blockchain,17,2018,https://arxiv.org/abs/1803.03807,6
+7,"Sharma, I You, R Kumar",Isma: Intelligent sensing model for anomalies detection in cross platform osns with a case study on iot,16,2017,https://ieeexplore.ieee.org/abstract/document/7879270/,4
+12," Onal, OB Sezer, M Ozbayoglu…","Weather data analysis and sensor fault detection using an extended IoT framework with semantics, big data, and machine learning",16,2017,https://ieeexplore.ieee.org/abstract/document/8258150/,4
+18,"Santos, P Leroux, T Wauters…",Anomaly detection for smart city applications over 5g low power wide area networks,15,2018,https://ieeexplore.ieee.org/abstract/document/8406257/,5
+52,"Deng, P Jiang, X Peng, C Mi",An intelligent outlier detection method with one class support tucker machine and genetic algorithm toward big sensor data in Internet of Things,15,2018,https://ieeexplore.ieee.org/abstract/document/8430652/,5
+94," Lee, J Gottschlich, N Tatbul, E Metcalf…",Greenhouse: a zero-positive machine learning system for time-series anomaly detection,14,2018,https://arxiv.org/pdf/1801.03168,5
+17,"Jain, H Shah",An anomaly detection in smart cities modeled as wireless sensor network,13,2016,https://ieeexplore.ieee.org/abstract/document/7857445/,3
+100,"Son, MS Gil, YS Moon",Anomaly detection for big log data using a Hadoop ecosystem,13,2017,https://ieeexplore.ieee.org/abstract/document/7881697/,3
+13,"Xie, Z Chen",Anomaly detection and redundancy elimination of big sensor data in internet of things,12,2017,https://arxiv.org/abs/1703.03225,3
+20,Rakesh,Performance analysis of anomaly detection of different IoT datasets using cloud micro services,12,2016,https://ieeexplore.ieee.org/abstract/document/7830157/,2
+79,"Fu, K Zheng, D Zhang, Y Yang",An intrusion detection scheme based on anomaly mining in Internet of Things,12,2011,https://digital-library.theiet.org/content/conferences/10.1049/cp.2011.1014,1
+68,Alghuried,A model for anomalies detection in internet of things (IoT) using inverse weight clustering and decision tree,11,2017,https://arrow.dit.ie/scschcomdis/103/,3
+56,"Wang, Q Kuang, S Duan",A new online anomaly learning and detection for large-scale service of internet of thing,11,2015,https://link.springer.com/article/10.1007/s00779-015-0874-8,2
+42,"Amiri, A Anzanpour, I Azimi…",Edge-assisted sensor control in healthcare iot,11,2018,https://ieeexplore.ieee.org/abstract/document/8647457/,4
+29,"Brady, A Hava, P Perry, J Murphy…",Towards an emulated IoT test environment for anomaly detection using NEMU,11,2017,https://ieeexplore.ieee.org/abstract/document/8016222/,3
+21," Pahl, FX Aubet",All eyes on you: Distributed Multi-Dimensional IoT microservice anomaly detection,10,2018,https://ieeexplore.ieee.org/abstract/document/8584985/,3
+103,"Stiawan, MY Idris, RF Malik…",Anomaly detection and monitoring in Internet of Things communication,10,2016,https://ieeexplore.ieee.org/abstract/document/7863271/,2
+104,"Manashty, J Light, U Yadav","Healthcare event aggregation lab (HEAL), a knowledge sharing platform for anomaly detection and prediction",10,2015,https://ieeexplore.ieee.org/abstract/document/7454584/,2
+73,"Sehatbakhsh, M Alam, A Nazari…",Syndrome: Spectral analysis for anomaly detection on medical iot and embedded devices,8,2018,https://ieeexplore.ieee.org/abstract/document/8383884/,3
+26," Goodman, J Hofmeister…","Advanced diagnostics and anomaly detection for railroad safety applications: using a wireless, IoT-enabled measurement system",8,2015,https://ieeexplore.ieee.org/abstract/document/7356502/,1
+59," Nguyen, S Marchal, M Miettinen…",DÏoT: A federated self-learning anomaly detection system for IoT,8,2019,https://ieeexplore.ieee.org/abstract/document/8884802/,4
+107,"Bandyopadhyay, A Ukil, C Puri…",SensIPro: Smart sensor analytics for Internet of things,8,2016,https://ieeexplore.ieee.org/abstract/document/7543775/,2
+102, Perera,Industrial IoT to predictive analytics: a reverse engineering approach from shipping,7,2017,https://sintef.brage.unit.no/sintef-xmlui/handle/11250/2489997,2
+106,Farnham,Proactive wireless sensor network for industrial IoT,7,2017,https://ieeexplore.ieee.org/abstract/document/7997158/,2
+93,"Bandyopadhyay, A Ukil, C Puri, A Pal…",IAS: Information analytics for sensors,7,2015,https://dl.acm.org/doi/abs/10.1145/2809695.2817858,1
+46,"K Khan, HS Park, CM Kyung",Rejecting motion outliers for efficient crowd anomaly detection,7,2018,https://ieeexplore.ieee.org/abstract/document/8410933/,2
+109,"Munir, SA Siddiqui, MA Chattha, A Dengel, S Ahmed",FuseAD: unsupervised anomaly detection in streaming sensors data by fusing statistical and deep learning models,6,2019,https://www.mdpi.com/1424-8220/19/11/2451,3
+75,"Wang, S Duan",An online anomaly learning and forecasting model for large-scale service of internet of things,6,2014,https://ieeexplore.ieee.org/abstract/document/7064018/,1
+31,"Antonini, M Vecchio, F Antonelli, P Ducange…",Smart audio sensors in the internet of things edge for anomaly detection,6,2018,https://ieeexplore.ieee.org/abstract/document/8502761/,2
+37," Nainar, CM Pignataro, R Asati",Block Chain Based IoT Device Identity Verification and Anomaly Detection,6,2017,https://patents.google.com/patent/US20170302663A1/en,2
+30," Liu, SY Chen, Y Zhang, R Chen…",An IoT anomaly detection model based on artificial immunity,6,2012,https://www.scientific.net/AMR.424-425.625,1
+49," Bose, B Kar, M Roy, PK Gopalakrishnan…",ADEPOS: anomaly detection based power saving for predictive maintenance using edge computing,6,2019,https://dl.acm.org/doi/abs/10.1145/3287624.3287716,3
+63,"Chakraborty, AU Nambi, R Chandra…",Fall-curve: A novel primitive for IoT Fault Detection and Isolation,6,2018,https://dl.acm.org/doi/abs/10.1145/3274783.3274853,2
+108,"Li, A Shinde, Y Shi, J Ye, XY Li…",System statistics learning-based IoT security: Feasibility and suitability,6,2019,https://ieeexplore.ieee.org/abstract/document/8633365/,3
+45,"Pacheco, X Zhu, Y Badr…",Enabling risk management for smart infrastructures with an anomaly behavior analysis intrusion detection system,5,2017,https://ieeexplore.ieee.org/abstract/document/8064143/,1
+24,"Nwafor, A Campbell, G Bloom",Anomaly-based intrusion detection of iot device sensor data using provenance graphs,5,2018,https://ebelenwaf.github.io/document/iotsec.pdf,2
+67,"Granjal, JM Silva, N Lourenço",Intrusion detection and prevention in CoAP wireless sensor networks using anomaly detection,5,2018,https://www.mdpi.com/1424-8220/18/8/2445,2
+48," Ho, CT Chou, YC Chien…",Unsupervised anomaly detection using light switches for smart nursing homes,5,2016,https://ieeexplore.ieee.org/abstract/document/7588937/,1
+58,"Chen, L Tian, C Lin",A method for detection of anomaly node in iot,4,2015,https://link.springer.com/chapter/10.1007/978-3-319-27119-4_55,1
+51,"Su, Y Sun, X Gao, J Qiu, Z Tian",A correlation-change based feature selection method for IoT equipment anomaly detection,4,2019,https://www.mdpi.com/2076-3417/9/3/437,2
+95,"Kang, B Song, F Sun",A deep similarity metric method based on incomplete data for traffic anomaly detection in IoT,4,2019,https://www.mdpi.com/2076-3417/9/1/135,2
+98,"Liu, Q Wu",A lightweight anomaly mining algorithm in the Internet of Things,4,2014,https://ieeexplore.ieee.org/abstract/document/6933768/,1
+47,"Lamba, S Singh, S Balvinder, N Dutta…",Deriving Intelligent Data Analytics Using Anomaly Detection Framework for IoT Network and Smart Environments,4,2017,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3492688,1
+101," Hofmeister, D Goodman…",Accurate Vibration and Speed Measurement on Rotating Shafts Using MEMS and IoT Single Wireless Triaxle Sensor,4,2016,https://www.researchgate.net/profile/James_Hofmeister/publication/308825252_Advanced_diagnostics_and_anomaly_detection_for_railroad_safety_applications_Using_a_wireless_IoT-enabled_measurement_system/links/58c8354645851591df34cf3b/Advanced-diagnostics-and-anomaly-detection-for-railroad-safety-applications-Using-a-wireless-IoT-enabled-measurement-system.pdf,1
+62,"Alrashdi, A Alqazzaz, E Aloufi…",AD-IoT: anomaly detection of IoT cyberattacks in smart city using machine learning,4,2019,https://ieeexplore.ieee.org/abstract/document/8666450/,2
+76,"Behniafar, A Nowroozi, HR Shahriari",A Survey of Anomaly Detection Approaches in Internet of Things.,4,2018,https://www.sid.ir/FileServer/JE/5070420180202.pdf,1
+71,"Babazadeh, S Kartakis…",Highly-distributed sensor processing using IoT for critical infrastructure monitoring,4,2017,https://ieeexplore.ieee.org/abstract/document/8282186/,1
+43,"Mohamudally, M Peermamod",Building an anomaly detection engine (ADE) for Iot smart applications,4,2018,https://www.sciencedirect.com/science/article/pii/S1877050918311013,1
+82,"Choi, JS Song, K Yi",Brightics-IoT: towards effective industrial IoT platforms for connected smart factories,4,2018,https://ieeexplore.ieee.org/abstract/document/8539113/,1
+92,"Sonrani, M Abbatangelo, E Carmona…",Array of semiconductor nanowires gas sensor for IoT in wastewater management,3,2018,https://ieeexplore.ieee.org/abstract/document/8438882/,1
+96,"Mehta, AED Mady…",Anomaly-based intrusion detection system for embedded devices on internet,3,2018,https://pdfs.semanticscholar.org/bf8b/36c313af67db8ffdd3106e21050436d6b7a4.pdf,1
+54,"Venkatakrishnan, MA Vouk",Using redundancy to detect security anomalies: Towards IoT security attack detectors: The internet of things (ubiquity symposium),3,2016,https://dl.acm.org/doi/abs/10.1145/2822881,1
+84," Williams, JP Rui",Enabling densely-scalable low-power WSNs for shipping and industrial IoT,3,2017,https://ieeexplore.ieee.org/abstract/document/8249097/,1
+72,"Tamamizu, S Tokunaga, S Saiki, S Matsumoto…",Towards person-centered anomaly detection and support system for home dementia care,3,2016,https://link.springer.com/chapter/10.1007/978-3-319-40247-5_28,1
+34,"S de Souza, W dos Santos Marques…",Performance and accuracy trade-off analysis of techniques for anomaly detection in IoT sensors,3,2017,https://ieeexplore.ieee.org/abstract/document/7899541/,1
+91,"Qi, H Yupeng, J Cun, Z Peng…",Edge computing application: real-time anomaly detection algorithm for sensing data,2,2018,http://crad.ict.ac.cn/EN/10.7544/issn1000-1239.2018.20170804,1
+89,"Kedari, JS Vuppalapati, A Ialapakurti…",Adaptive Edge Analytics-A Framework to Improve Performance and Prognostics Capabilities for Dairy IoT Sensor,2,2018,https://link.springer.com/chapter/10.1007/978-3-319-73888-8_99,1
+74,"Parada, J Meli",Anomaly detection using RFID-based information management in an IoT context,2,0,https://www.igi-global.com/article/anomaly-detection-using-rfid-based-information-management-in-an-iot-context/206180,0
+90,"Yahyaoui, T Abdellatif, R Attia",Hierarchical anomaly based intrusion detection and localization in IoT,2,2019,https://ieeexplore.ieee.org/abstract/document/8766574/,1
+83,"Giannoni, M Mancini, F Marinelli",Anomaly Detection Models for IoT Time Series Data,1,2018,https://arxiv.org/abs/1812.00890,0
+11,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+66,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+44,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+33,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+77,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+55,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+99,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+22,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+88,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0
+110,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=iot+sensor+anomalies&hl=en&as_sdt=0,5",0

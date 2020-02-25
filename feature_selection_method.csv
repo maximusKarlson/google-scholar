@@ -1,0 +1,112 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+22,"Nie, H Huang, X Cai, CH Ding","Efficient and robust feature selection via joint ℓ2, 1-norms minimization",1297,2010,http://papers.nips.cc/paper/3988-efficient-and-robust-feature-selection-via-joint-l21-norms-minimization,118
+4,"Weston, S Mukherjee, O Chapelle…",Feature selection for SVMs,1277,2001,http://papers.nips.cc/paper/1850-feature-selection-for-svms.pdf,64
+82,"Weston, S Mukherjee, O Chapelle…",Feature selection for SVMs,1277,2001,http://papers.nips.cc/paper/1850-feature-selection-for-svms.pdf,64
+44,"Wang, J Yang, X Teng, W Xia, R Jensen",Feature selection based on rough sets and particle swarm optimization,809,2007,https://www.sciencedirect.com/science/article/pii/S0167865506002327,58
+27,"Kwak, CH Choi",Input feature selection by mutual information based on Parzen window,627,2002,https://ieeexplore.ieee.org/abstract/document/1114861/,33
+36,"Liu, S Liu, Z Chen, WY Ma",An evaluation on feature selection for text clustering,379,2003,https://www.aaai.org/Papers/ICML/2003/ICML03-065.pdf,21
+3,Uğuz,"A two-stage feature selection method for text categorization by using information gain, principal component analysis and genetic algorithm",360,2011,https://www.sciencedirect.com/science/article/pii/S0950705111000803,36
+29,"Lee, GG Lee",Information gain and divergence-based feature selection for machine learning-based text categorization,303,2006,https://www.sciencedirect.com/science/article/pii/S0306457304000962,20
+59,"Shang, H Huang, H Zhu, Y Lin, Y Qu…",A novel feature selection algorithm for text categorization,290,2007,https://www.sciencedirect.com/science/article/pii/S095741740600114X,21
+88,"Amiri, MMR Yousefi, C Lucas, A Shakery…",Mutual information-based feature selection for intrusion detection systems,277,2011,https://www.sciencedirect.com/science/article/pii/S1084804511000038,28
+33,"Geng, TY Liu, T Qin, H Li",Feature selection for ranking,272,2007,https://dl.acm.org/doi/abs/10.1145/1277741.1277811,19
+104," Yang, J Moody",Data visualization and feature selection: New algorithms for nongaussian data,261,2000,http://papers.nips.cc/paper/1779-data-visualization-and-feature-selection-new-algorithms-for-nongaussian-data.pdf,12
+79,"Zou, L Ni, T Zhang, Q Wang",Deep learning based feature selection for remote sensing scene classification,241,2015,https://ieeexplore.ieee.org/abstract/document/7272047/,40
+65, Tsai,Feature selection in bankruptcy prediction,238,2009,https://www.sciencedirect.com/science/article/pii/S0950705108001536,20
+50,Luukka,Feature selection using fuzzy entropy measures with similarity classifier,235,2011,https://www.sciencedirect.com/science/article/pii/S0957417410010900,24
+9, Lee,Using support vector machine with a hybrid feature selection method to the stock trend prediction,213,2009,https://www.sciencedirect.com/science/article/pii/S0957417409001560,18
+17,"Unler, A Murat, RB Chinnam",mr2PSO: A maximum relevance minimum redundancy feature selection method based on swarm intelligence for support vector machine classification,212,2011,https://www.sciencedirect.com/science/article/pii/S002002551000246X,21
+14,"Li, H Wu, D Wan, J Zhu",An effective feature selection method for hyperspectral image classification based on genetic algorithm and support vector machine,211,2011,https://www.sciencedirect.com/science/article/pii/S0950705110001097,21
+11,"Li, H Wu, D Wan, J Zhu",An effective feature selection method for hyperspectral image classification based on genetic algorithm and support vector machine,211,2011,https://www.sciencedirect.com/science/article/pii/S0950705110001097,21
+1," Uysal, S Gunal",A novel probabilistic feature selection method for text classification,206,2012,https://www.sciencedirect.com/science/article/pii/S0950705112001761,23
+2,"Liu, YF Zheng",FS_SFS: A novel feature selection method for support vector machines,195,2006,https://www.sciencedirect.com/science/article/pii/S003132030500378X,13
+70,"Tabakhi, P Moradi, F Akhlaghian",An unsupervised feature selection algorithm based on ant colony optimization,195,2014,https://www.sciencedirect.com/science/article/pii/S0952197614000621,28
+13," Kuo, HH Ho, CH Li, CC Hung…",A kernel-based feature selection method for SVM with RBF kernel for hyperspectral image classification,191,2013,https://ieeexplore.ieee.org/abstract/document/6521421/,24
+10," Kuo, HH Ho, CH Li, CC Hung…",A kernel-based feature selection method for SVM with RBF kernel for hyperspectral image classification,191,2013,https://ieeexplore.ieee.org/abstract/document/6521421/,24
+25," Tu, LY Chuang, JY Chang…",Feature selection using PSO-SVM,189,2007,http://ir.lib.kuas.edu.tw/handle/987654321/13060,14
+6,"Hoque, DK Bhattacharyya, JK Kalita",MIFS-ND: A mutual information-based feature selection method,165,2014,https://www.sciencedirect.com/science/article/pii/S0957417414002164,24
+94,"Selamat, S Omatu",Web page feature selection and classification using neural networks,164,2004,https://www.sciencedirect.com/science/article/pii/S0020025503001944,10
+52,"Liu, Q Cui, T Jiang, S Ma",A combinational feature selection and ensemble neural network method for classification of gene expression data,163,2004,https://link.springer.com/article/10.1186/1471-2105-5-136,10
+97," Jing, HK Huang, HB Shi",Improved feature selection approach TFIDF in text mining,162,2002,https://ieeexplore.ieee.org/abstract/document/1174522/,9
+74," Khushaba, A A",Feature subset selection using differential evolution and a statistical repair mechanism,161,2011,https://www.sciencedirect.com/science/article/pii/S0957417411004362,16
+16,"Wang, D Li, X Song, Y Wei, H Li",A feature selection method based on improved fisher's discriminant ratio for text sentiment classification,158,2011,https://www.sciencedirect.com/science/article/pii/S0957417411000972,16
+19,"Xie, C Wang",Using support vector machines with a novel hybrid feature selection method for diagnosis of erythemato-squamous diseases,157,2011,https://www.sciencedirect.com/science/article/pii/S0957417410011942,16
+35,"Banati, M Bajaj",Fire fly based feature selection approach,156,2011,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.6003&rep=rep1&type=pdf#page=483,16
+8,"Keleş, M van der Laan, MB Eisen",Identification of regulatory elements using a feature selection method,150,2002,https://academic.oup.com/bioinformatics/article-abstract/18/9/1167/210750,8
+7," Lee, Y Leu",A novel hybrid feature selection method for microarray data analysis,150,2011,https://www.sciencedirect.com/science/article/pii/S1568494609002233,15
+57,"Uncu, IB Türkşen",A novel feature selection approach: combining feature wrappers and filters,150,2007,https://www.sciencedirect.com/science/article/pii/S0020025506000806,11
+24,"Guo, RI Damper, SR Gunn, JDB Nelson",A fast separability-based feature-selection method for high-dimensional remotely sensed image classification,142,2008,https://www.sciencedirect.com/science/article/pii/S0031320307004979,11
+68,"Zhang, J Dong, X Luo, KS Choi, X Wu",Heartbeat classification using disease-specific feature selection,139,2014,https://www.sciencedirect.com/science/article/pii/S001048251300348X,20
+26," Kanan, K Faez",An improved feature selection method based on ant colony optimization (ACO) evaluated on face recognition system,135,2008,https://www.sciencedirect.com/science/article/pii/S0096300308003500,10
+20,"Osanaiye, H Cai, KKR Choo…",Ensemble-based multi-filter feature selection method for DDoS detection in cloud computing,131,2016,https://link.springer.com/article/10.1186/s13638-016-0623-3,26
+98, Uysal,An improved global feature selection scheme for text classification,126,2016,https://www.sciencedirect.com/science/article/pii/S0957417415006077,25
+31,"Zhu, HI Suk, L Wang, SW Lee, D Shen…",A novel relational regularization feature selection method for joint regression and classification in AD diagnosis,126,2017,https://www.sciencedirect.com/science/article/pii/S1361841515001504,32
+18," Shen, CJ Ong, XP Li, Z Hui…",A feature selection method for multilevel mental fatigue EEG classification,124,2007,https://ieeexplore.ieee.org/abstract/document/4237349/,9
+30,"Zhuo, J Zheng, X Li, F Wang, B Ai…",A genetic algorithm based wrapper feature selection method for classification of hyperspectral images using support vector machine,122,2008,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7147/71471J/A-genetic-algorithm-based-wrapper-feature-selection-method-for-classification/10.1117/12.813256.short,9
+49," Manek, PD Shenoy, MC Mohan, KR Venugopal",Aspect term extraction for sentiment analysis in large movie reviews using Gini Index feature selection method and SVM classifier,119,2017,https://link.springer.com/article/10.1007/S11280-015-0381-X,30
+21,"Rashedi, H Nezamabad",A simultaneous feature adaptation and feature selection method for content-based image retrieval systems,119,2013,https://www.sciencedirect.com/science/article/pii/S0950705112002924,15
+39,"Liu, J Tang","Mass classification in mammograms using selected geometry and texture features, and a new SVM-based feature selection method",118,2013,https://ieeexplore.ieee.org/abstract/document/6663666/,15
+15,"Lee, YT Park, BJ d'Auriol",A novel feature selection method based on normalized mutual information,110,2012,https://link.springer.com/article/10.1007/s10489-011-0315-y,12
+99," Firpi, E Goodman",Swarmed feature selection,106,2004,https://ieeexplore.ieee.org/abstract/document/1409684/,6
+92,"Moradi, M Rostami",Integration of graph clustering with ant colony optimization for feature selection,102,2015,https://www.sciencedirect.com/science/article/pii/S0950705115001458,17
+51,"Hajnayeb, A Ghasemloonia, SE Khadem…",Application and comparison of an ANN-based feature selection method and the genetic algorithm in gearbox fault diagnosis,100,2011,https://www.sciencedirect.com/science/article/pii/S0957417411002715,10
+28,"Yuan, SS Tseng, W Gangshan…",A two-phase feature selection method using both filter and wrapper,99,1999,https://ieeexplore.ieee.org/abstract/document/825221/,4
+41," Inbarani, M Bagyamathi, AT Azar",A novel hybrid feature selection method based on rough set and improved harmony search,94,2015,https://link.springer.com/article/10.1007/s00521-015-1840-0,16
+55,"Guorong, C Peiqi, W Minhui",Bhattacharyya distance feature selection,90,1996,https://ieeexplore.ieee.org/abstract/document/546751/,4
+46," Davis, AJ Charlton, S Oehlschlager…",Novel feature selection method for genetic programming using metabolomic 1H NMR data,88,2006,https://www.sciencedirect.com/science/article/pii/S0169743905001498,6
+43," Abualigah, AT Khader, ES Hanandeh",A new feature selection method to improve the document clustering using particle swarm optimization algorithm,87,2018,https://www.sciencedirect.com/science/article/pii/S1877750316305002,29
+42,"Goh, Q Song, N Kasabov",A novel feature selection method to improve classification of gene expression data,84,2004,https://dl.acm.org/citation.cfm?id=976542,5
+105,"Schiezaro, H Pedrini",Data feature selection based on Artificial Bee Colony algorithm,84,2013,https://link.springer.com/article/10.1186/1687-5281-2013-47,10
+60,"F Da Silva, MX Ribeiro, JESB Neto…",Improving the ranking quality of medical image retrieval using a genetic feature selection method,82,2011,https://www.sciencedirect.com/science/article/pii/S0167923611000443,8
+38," Chuang, CH Yang, KC Wu, CH Yang",A hybrid feature selection method for DNA microarray data,81,2011,https://www.sciencedirect.com/science/article/pii/S001048251100028X,8
+95," Ni, ZW Ni, YZ Gao",Stock trend prediction based on fractal feature selection and support vector machine,78,2011,https://www.sciencedirect.com/science/article/pii/S0957417410012236,8
+106,"Goodarzi, MP Freitas, R Jensen","Ant colony optimization as a feature selection method in the QSAR modeling of anti-HIV-1 activities of 3-(3, 5-dimethylbenzyl) uracil derivatives using MLR, PLS and …",77,2009,https://www.sciencedirect.com/science/article/pii/S0169743909001191,6
+32,"Meng, H Lin, Y Yu",A two-stage feature selection method for text categorization,77,2011,https://www.sciencedirect.com/science/article/pii/S089812211100616X,8
+62,"Gharavian, M Sheikhan, A Nazerieh…",Speech emotion recognition using FCBF feature selection method and GA-optimized fuzzy ARTMAP neural network,77,2012,https://link.springer.com/article/10.1007/s00521-011-0643-1,9
+63,"Lee, CH Wei",A computerized feature selection method using genetic algorithms to forecast freeway accident duration times,77,2010,https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8667.2009.00626.x,7
+48,"Zeng, YM Cheung",A new feature selection method for Gaussian mixture clustering,73,2009,https://www.sciencedirect.com/science/article/pii/S0031320308002148,6
+81," Uzer, N Yilmaz, O Inan",Feature selection method based on artificial bee colony algorithm and support vector machines for medical datasets classification,70,2013,https://www.hindawi.com/journals/tswj/2013/419187/abs/,9
+69,"Karabatak, MC Ince",A new feature selection method based on association rules for diagnosis of erythemato-squamous diseases,68,2009,https://www.sciencedirect.com/science/article/pii/S0957417409003728,6
+86,Jalal,Application of genetic algorithm-kernel partial least square as a novel nonlinear feature selection method: activity of carbonic anhydrase II inhibitors,68,2007,https://www.sciencedirect.com/science/article/pii/S0223523407000074,5
+53,"Gasca, JS Sánchez, R Alonso",Eliminating redundancy and irrelevance using a new MLP-based feature selection method,67,2006,https://www.sciencedirect.com/science/article/pii/S0031320305003420,4
+40,"Sharma, S Imoto, S Miyano, V Sharma",Null space based feature selection method for gene expression data,67,2012,https://link.springer.com/article/10.1007/s13042-011-0061-9,7
+54,"Wan, M Wang, Z Ye, X Lai",A feature selection method based on modified binary coded ant colony optimization algorithm,67,2016,https://www.sciencedirect.com/science/article/pii/S1568494616304057,13
+80,"Zhou, L Wang",A modified T-test feature selection method and its application on the HapMap genotype data,67,2007,https://www.sciencedirect.com/science/article/pii/S167202290860011X,5
+37,"Zeng, H Zhang, R Zhang, C Yin",A novel feature selection method considering feature interaction,66,2015,https://www.sciencedirect.com/science/article/pii/S0031320315000850,11
+58,"W Pinheiro, GDC Cavalcanti, RF Correa…",A global-ranking local feature selection method for text categorization,64,2012,https://www.sciencedirect.com/science/article/pii/S0957417412007063,7
+61,"Simeon, R Hilderman",Categorical proportional difference: A feature selection method for text categorization,64,2008,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.448&rep=rep1&type=pdf,5
+64," Abdoos, PK Mianaei, MR Ghadikolaei",Combined VMD-SVM based feature selection method for classification of power quality events,64,2016,https://www.sciencedirect.com/science/article/pii/S156849461500678X,13
+47," Kowalski, CF Bender",An orthogonal feature selection method,61,1976,https://www.sciencedirect.com/science/article/pii/0031320376900236,1
+71,Utku,Application of the feature selection method to discriminate digitized wheat varieties,60,2000,https://www.sciencedirect.com/science/article/pii/S0260877400000753,3
+84,"Lin, F Yang, L Zhou, P Yin, H Kong, W Xing…",A support vector machine-recursive feature elimination feature selection method based on artificial contrast variables and mutual information,59,2012,https://www.sciencedirect.com/science/article/pii/S1570023212002929,7
+77,"Huang, HB Xie, JY Guo, HJ Chen",Ant colony optimization-based feature selection method for surface electromyography signals classification,58,2012,https://www.sciencedirect.com/science/article/pii/S0010482511002009,6
+73,"Barnhill, I Guyon, J Weston",Feature selection method using support vector machine classifier,57,2009,https://patents.google.com/patent/US7542959B2/en,5
+110,"Kaneko, O Hori",Feature selection for reliable tracking using template matching,57,2003,https://ieeexplore.ieee.org/abstract/document/1211434/,3
+102,"Sheikhan, M Bejani, D Gharavian",Modular neural-SVM scheme for speech emotion recognition using ANOVA feature selection method,53,2013,https://link.springer.com/article/10.1007/s00521-012-0814-8,7
+85,"Chaves, J Ramírez, JM Górriz, CG Puntonet…",Association rule-based feature selection method for Alzheimer's disease diagnosis,51,2012,https://www.sciencedirect.com/science/article/pii/S0957417412006720,6
+75,"Wang, Y Liu, L Feng, X Zhu",Novel feature selection method based on harmony search for email classification,51,2015,https://www.sciencedirect.com/science/article/pii/S0950705114003803,8
+66,"Sharma, KK Paliwal, S Imoto, S Miyano",A feature selection method using improved regularized linear discriminant analysis,51,2014,https://link.springer.com/article/10.1007/s00138-013-0577-y,7
+72," Yang, LY Chuang, CH Ke…",A Hybrid Feature Selection Method for Microarray Classification.,51,2008,http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1819656X&asa=Y&AN=35234829&h=oGgoQBLjuyiDRvb63Lu1%2BomPL5JLm6smVCo39NuzgUZxhtfQg9Au1C3BN4CsG5ARd8JEdbUoaGrTd6jM6gqvng%3D%3D&crl=c,4
+108,"Lorente, J Blasco, AJ Serrano, E Sori",Comparison of ROC feature selection method for the detection of decay in citrus fruit using hyperspectral images,50,2013,https://link.springer.com/article/10.1007/s11947-012-0951-1,6
+83,"Zong, F Wu, LK Chu, D Sculli",A discriminative and semantic feature selection method for text categorization,49,2015,https://www.sciencedirect.com/science/article/pii/S0925527314004290,8
+87,"Mao, IWH Tsang",A feature selection method for multivariate performance measures,49,2012,https://ieeexplore.ieee.org/abstract/document/6389678/,5
+90," Garcia, JR Villalobos…",An automated feature selection method for visual inspection systems,49,2006,https://ieeexplore.ieee.org/abstract/document/1707957/,3
+76,Lei,A feature selection method based on information gain and genetic algorithm,47,2012,https://ieeexplore.ieee.org/abstract/document/6188038/,5
+91,"YANG, S ZHANG, K DENG, P DU",Research into a feature selection method for hyperspectral imagery using PSO and SVM,47,2007,https://www.sciencedirect.com/science/article/pii/S100612660760128X,3
+93,"Naseriparsa, AM Bidgoli, T Varaee",A hybrid feature selection method to improve performance of a group of classification algorithms,45,2014,https://arxiv.org/abs/1403.2372,6
+101,"Sun, Q Peng, A Shakoor",A kernel-based multivariate feature selection method for microarray data classification,44,2014,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105478/,6
+96,"Liu, W Wang, Q Zhao, X Shen, M Konan",A new feature selection method based on a validity index of feature subset,42,2017,https://www.sciencedirect.com/science/article/pii/S0167865517300958,10
+109,"Zhang, D Gong, X Sun, Y Guo",A PSO-based multi-objective multi-label feature selection method in classification,40,2017,https://www.nature.com/articles/s41598-017-00416-0,10
+103," Jeong, IH Kang, MK Jeong…",A new feature selection method for one-class classification problems,37,2012,https://ieeexplore.ieee.org/abstract/document/6392459/,4
+107,"Li, X Hu, X Shen, X Chen, Z Li",A novel unsupervised feature selection method for bioinformatics data sets through feature clustering,35,2008,https://ieeexplore.ieee.org/abstract/document/4664788/,3
+56,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=feature+selection+method&hl=en&as_sdt=0,5",0
+100,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=feature+selection+method&hl=en&as_sdt=0,5",0
+89,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=feature+selection+method&hl=en&as_sdt=0,5",0
+78,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=feature+selection+method&hl=en&as_sdt=0,5",0
+67,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=feature+selection+method&hl=en&as_sdt=0,5",0
+45,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=feature+selection+method&hl=en&as_sdt=0,5",0
+34,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=feature+selection+method&hl=en&as_sdt=0,5",0
+23,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=feature+selection+method&hl=en&as_sdt=0,5",0
+12,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=feature+selection+method&hl=en&as_sdt=0,5",0
+5,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=feature+selection+method&hl=en&as_sdt=0,5",0
+111,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=feature+selection+method&hl=en&as_sdt=0,5",0

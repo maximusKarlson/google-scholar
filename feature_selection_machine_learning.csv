@@ -1,0 +1,111 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+27,"Guyon, A Elisseeff",An introduction to variable and feature selection,14109,2003,http://www.jmlr.org/papers/v3/guyon03a.html,784
+19,"Guyon, A Elisseeff",An introduction to variable and feature selection,14109,2003,http://www.jmlr.org/papers/v3/guyon03a.html,784
+21,Langley,Selection of relevant features in machine learning,4265,1994,https://www.aaai.org/Papers/Symposia/Fall/1994/FS-94-02/FS94-02-034.pdf,158
+6,Langley,Selection of relevant features in machine learning,4265,1994,https://www.aaai.org/Papers/Symposia/Fall/1994/FS-94-02/FS94-02-034.pdf,158
+51,"Dash, H Liu",Feature selection for classification,3516,1997,https://content.iospress.com/articles/intelligent-data-analysis/ida1-3-02,146
+2, Hall,Correlation-based feature selection for machine learning,3349,1999,https://www.lri.fr/~pierres/donn%E9es/save/these/articles/lpr-queue/hall99correlationbased.pdf,152
+7,"Kira, LA Rendell",A practical approach to feature selection,2854,1992,https://www.sciencedirect.com/science/article/pii/B9781558602472500371,98
+16,Forman,An extensive empirical study of feature selection metrics for text classification,2788,2003,http://www.jmlr.org/papers/v3/forman03a.html,155
+76,"Liu, L Yu",Toward integrating feature selection algorithms for classification and clustering,2695,2005,https://ieeexplore.ieee.org/abstract/document/1401889/,168
+14,"Yu, H Liu",Feature selection for high-dimensional data: A fast correlation-based filter solution,2274,2003,https://www.aaai.org/Papers/ICML/2003/ICML03-111.pdf,126
+17,"Yu, H Liu",Efficient feature selection via analysis of relevance and redundancy,2043,2004,http://www.jmlr.org/papers/v5/yu04a.html,120
+24,"Yu, H Liu",Efficient feature selection via analysis of relevance and redundancy,2043,2004,http://www.jmlr.org/papers/v5/yu04a.html,120
+3, Hall,Correlation-based feature selection of discrete and numeric class machine learning,1887,2000,https://researchcommons.waikato.ac.nz/handle/10289/1024,90
+49, Ng,"Feature selection, L1 vs. L2 regularization, and rotational invariance",1431,2004,https://dl.acm.org/doi/abs/10.1145/1015330.1015435,84
+26,"Nie, H Huang, X Cai, CH Ding","Efficient and robust feature selection via joint ℓ2, 1-norms minimization",1297,2010,http://papers.nips.cc/paper/3988-efficient-and-robust-feature-selection-via-joint-l21-norms-minimization,118
+94,"Weston, S Mukherjee, O Chapelle…",Feature selection for SVMs,1277,2001,http://papers.nips.cc/paper/1850-feature-selection-for-svms.pdf,64
+86,"Liu, H Motoda",Computational methods of feature selection,1168,2007,https://books.google.com/books?hl=en&lr=&id=N1ViHNWZeQ0C&oi=fnd&pg=PP1&dq=feature+selection+machine+learning&ots=pJ_7uzu9tM&sig=TsoSG1ttbu6k2bQdBmby6tKJMHM,83
+67," Dy, CE Brodley",Feature selection for unsupervised learning,959,2004,http://www.jmlr.org/papers/v5/dy04a.html,56
+73,Fleuret,Fast binary feature selection with conditional mutual information,920,2004,http://www.jmlr.org/papers/v5/fleuret04a.html,54
+87,"Liu, R Setiono",A probabilistic approach to feature selection-a filter solution,893,1996,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.1270&rep=rep1&type=pdf,36
+57,"Brown, A Pocock, MJ Zhao, M Luján",Conditional likelihood maximisation: a unifying framework for information theoretic feature selection,814,2012,http://www.jmlr.org/papers/v13/brown12a.html,90
+15," Kursa, WR Rudnicki",Feature selection with the Boruta package,806,2010,http://www.academia.edu/download/32056178/v36i11.pdf,73
+59," Bartlett, G Littlewort, M Frank…",Recognizing facial expression: machine learning and application to spontaneous behavior,697,2005,https://ieeexplore.ieee.org/abstract/document/1467492/,44
+38,"Zhao, H Liu",Spectral feature selection for supervised and unsupervised learning,648,2007,https://dl.acm.org/doi/abs/10.1145/1273496.1273641,46
+61, Skalak,Prototype and feature selection by sampling and random mutation hill climbing algorithms,616,1994,https://www.sciencedirect.com/science/article/pii/B978155860335650043X,23
+5," Hall, LA Smith",Feature selection for machine learning: comparing a correlation-based filter approach to the wrapper.,533,1999,https://www.aaai.org/Library/FLAIRS/1999/flairs99-042.php,24
+1,"Xue, M Zhang, WN Browne…",A survey on evolutionary computation approaches to feature selection,502,2015,https://ieeexplore.ieee.org/abstract/document/7339682/,84
+35,"Abeel, T Helleputte, Y Van de Peer, P Dupont…",Robust biomarker identification for cancer diagnosis with ensemble feature selection methods,496,2010,https://academic.oup.com/bioinformatics/article-abstract/26/3/392/213807,45
+31,"Abeel, T Helleputte, Y Van de Peer, P Dupont…",Robust biomarker identification for cancer diagnosis with ensemble feature selection methods,496,2010,https://academic.oup.com/bioinformatics/article-abstract/26/3/392/213807,45
+89,"Chen, H Huang, S Tian, Y Qu",Feature selection for text classification with Naïve Bayes,482,2009,https://www.sciencedirect.com/science/article/pii/S0957417408003564,40
+4," Hall, LA Smith",Practical feature subset selection for machine learning,474,1998,https://researchcommons.waikato.ac.nz/handle/10289/1512,21
+48,Gila,Margin based feature selection-theory and algorithms,462,2004,https://dl.acm.org/doi/abs/10.1145/1015330.1015352,27
+39,"Zhu, YS Ong, M Dash",Wrapper–filter feature selection algorithm using a memetic framework,404,2007,https://ieeexplore.ieee.org/abstract/document/4067093/,29
+98,"Fan, R Samworth, Y Wu",Ultrahigh dimensional feature selection: beyond the linear model,389,2009,http://www.jmlr.org/papers/v10/fan09a.html,32
+70,"Perkins, K Lacker, J Theiler","Grafting: Fast, incremental feature selection by gradient descent in function space",383,2003,http://www.jmlr.org/papers/v3/perkins03a.html,21
+95,"Liu, S Liu, Z Chen, WY Ma",An evaluation on feature selection for text clustering,379,2003,https://www.aaai.org/Papers/ICML/2003/ICML03-065.pdf,21
+53,"Unler, A Murat",A discrete particle swarm optimization method for feature selection in binary classification problems,329,2010,https://www.sciencedirect.com/science/article/pii/S0377221710001633,30
+10,"Lee, GG Lee",Information gain and divergence-based feature selection for machine learning-based text categorization,303,2006,https://www.sciencedirect.com/science/article/pii/S0306457304000962,20
+82,"Stoppiglia, G Dreyfus, R Dubois, Y Oussar",Ranking a random feature for variable and feature selection,285,2003,http://www.jmlr.org/papers/v3/stoppiglia03a.html,16
+9,"Vafaie, KA De Jong",Genetic Algorithms as a Tool for Feature Selection in Machine Learning.,283,1992,https://www.researchgate.net/profile/Kenneth_De_Jong/publication/2722353_Genetic_Algorithms_as_a_Tool_for_Feature_Selection_in_Machine_Learning/links/09e41510956a7d0528000000.pdf,10
+12,"Vafaie, KA De Jong",Genetic Algorithms as a Tool for Feature Selection in Machine Learning.,283,1992,https://www.researchgate.net/profile/Kenneth_De_Jong/publication/2722353_Genetic_Algorithms_as_a_Tool_for_Feature_Selection_in_Machine_Learning/links/09e41510956a7d0528000000.pdf,10
+64,"Stein, B Chen, AS Wu, KA Hua",Decision tree classifier for network intrusion detection with GA-based feature selection,271,2005,https://dl.acm.org/doi/abs/10.1145/1167253.1167288,17
+42,"Song, A Smola, A Gretton, J Bedo…",Feature selection via dependence maximization,266,2012,http://www.jmlr.org/papers/v13/song12a.html,30
+13,"Berlin, A Motro",Database schema matching using machine learning with feature selection,259,2002,https://link.springer.com/chapter/10.1007/3-540-47961-9_32,14
+47,Mladenić,Feature subset selection in text-learning,252,1998,https://link.springer.com/chapter/10.1007/BFb0026677,11
+104,"Catal, B Diri","Investigating the effect of dataset size, metrics sets, and feature selection techniques on software fault prediction problem",245,2009,https://www.sciencedirect.com/science/article/pii/S0020025508005173,20
+45,Piramuthu,Evaluating feature selection methods for learning in data mining applications,241,2004,https://www.sciencedirect.com/science/article/pii/S0377221702009116,14
+25,"Kumar, S Minz",Feature selection: a literature review,238,2014,https://www.cc.gatech.edu/~hic/CS7616/Papers/Kumar-Minz-2014.pdf,34
+20,"Vafaie, K De Jong",Robust feature selection algorithms,237,1993,https://ieeexplore.ieee.org/abstract/document/633981/,8
+108,"He, W Yu",Stable feature selection for biomarker discovery,218,2010,https://www.sciencedirect.com/science/article/pii/S1476927110000502,20
+75," Kolter, AY Ng",Regularization and feature selection in least-squares temporal difference learning,208,2009,https://dl.acm.org/doi/abs/10.1145/1553374.1553442,17
+30,"Jensen, J Neville",Linkage and autocorrelation cause feature selection bias in relational learning,203,2002,https://www.cc.gatech.edu/~isbell/classes/reading/papers/jensen-neville-icml2002.pdf,11
+34,"Jensen, J Neville",Linkage and autocorrelation cause feature selection bias in relational learning,203,2002,https://www.cc.gatech.edu/~isbell/classes/reading/papers/jensen-neville-icml2002.pdf,11
+52, Yusta,Different metaheuristic strategies to solve the feature selection problem,202,2009,https://www.sciencedirect.com/science/article/pii/S0167865508003565,17
+63,"Peng, Z Wu, J Jiang",A novel feature selection approach for biomedical data classification,201,2010,https://www.sciencedirect.com/science/article/pii/S1532046409001014,18
+100,"Chen, M Wasikowski",Fast: a roc-based feature selection metric for small samples and imbalanced data classification problems,198,2008,https://dl.acm.org/doi/abs/10.1145/1401890.1401910,15
+65,"Vafaie, IF Imam",Feature selection methods: genetic algorithms vs. greedy-like search,196,1994,https://www.mli.gmu.edu/papers/91-95/94-10.pdf,7
+8," Tu, LY Chuang, JY Chang…",Feature selection using PSO-SVM,189,2007,http://ir.lib.kuas.edu.tw/handle/987654321/13060,14
+43,"Gu, Z Li, J Han",Joint feature selection and subspace learning,165,2011,https://www.aaai.org/ocs/index.php/IJCAI/IJCAI11/paper/viewPaper/2910,16
+84," Jing, HK Huang, HB Shi",Improved feature selection approach TFIDF in text mining,162,2002,https://ieeexplore.ieee.org/abstract/document/1174522/,9
+60,"Banati, M Bajaj",Fire fly based feature selection approach,156,2011,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.6003&rep=rep1&type=pdf#page=483,16
+92,Boló,Recent advances and emerging challenges of feature selection in the context of big data,154,2015,https://www.sciencedirect.com/science/article/pii/S0950705115002002,26
+29,"I Oliveira, PL Braga, RMF Lima…",GA-based method for feature selection and parameters optimization for machine learning regression applied to software effort estimation,151,2010,https://www.sciencedirect.com/science/article/pii/S0950584910000984,14
+36,"I Oliveira, PL Braga, RMF Lima…",GA-based method for feature selection and parameters optimization for machine learning regression applied to software effort estimation,151,2010,https://www.sciencedirect.com/science/article/pii/S0950584910000984,14
+50,"Taira, M Haruno",Feature selection in SVM text categorization,151,1999,https://www.aaai.org/Papers/AAAI/1999/AAAI99-069.pdf,7
+80,"Sebban, R Nock",A hybrid filter/wrapper approach of feature selection using information theory,146,2002,https://www.sciencedirect.com/science/article/pii/S003132030100084X,8
+101," Raykar, B Krishnapuram, J Bi, M Dundar…",Bayesian multiple instance learning: automatic feature selection and inductive transfer,146,2008,https://dl.acm.org/doi/abs/10.1145/1390156.1390258,11
+79,"Xiao, B Biggio, G Brown, G Fumera, C Eckert…",Is feature selection secure against training data poisoning?,145,2015,http://www.jmlr.org/proceedings/papers/v37/xiao15.pdf,24
+18,"Cai, J Luo, S Wang, S Yang",Feature selection in machine learning: A new perspective,138,2018,https://www.sciencedirect.com/science/article/pii/S0925231218302911,46
+105,"Chen, A Abraham, B Yang",Feature selection and classification using flexible neural tree,132,2006,https://www.sciencedirect.com/science/article/pii/S0925231206001111,9
+23," Beigi, HH Jazi, N Stakhanova…",Towards effective feature selection in machine learning-based botnet detection approaches,128,2014,https://ieeexplore.ieee.org/abstract/document/6997492/,18
+96, Marti,A survey of genetic feature selection in mining issues,127,1999,https://ieeexplore.ieee.org/abstract/document/782599/,6
+81,"Yang, K Wang, W Zuo",Neighborhood Component Feature Selection for High-Dimensional Data.,127,2012,https://www.researchgate.net/profile/Wangmeng_Zuo/publication/220405724_Neighborhood_Component_Feature_Selection_for_High-Dimensional_Data/links/0912f51107d6a2c931000000/Neighborhood-Component-Feature-Selection-for-High-Dimensional-Data.pdf,14
+46,"Jin, A Xu, R Bie, P Guo",Machine learning techniques and chi-square feature selection for cancer classification using SAGE gene expression profiles,124,2006,https://link.springer.com/chapter/10.1007/11691730_11,8
+97,A,Feature selection and the class imbalance problem in predicting protein function from sequence,124,2005,https://link.springer.com/article/10.2165/00822942-200504030-00004,8
+62,"Zhang, PPK Chan, B Biggio…",Adversarial feature selection against evasion attacks,123,2015,https://ieeexplore.ieee.org/abstract/document/7090993/,20
+56,"Wu, K Yu, H Wang, W Ding",Online streaming feature selection,121,2010,https://openreview.net/forum?id=rJZnKjWu-r,11
+69,"Whiteson, P Stone, KO Stanley…",Automatic feature selection in neuroevolution,118,2005,https://dl.acm.org/doi/abs/10.1145/1068009.1068210,7
+72,"Emary, HM Zawbaa, C Grosan…",Feature subset selection approach by gray-wolf optimization,117,2015,https://link.springer.com/chapter/10.1007/978-3-319-13572-4_1,20
+41,"Sharma, S Dey",A comparative study of feature selection and machine learning techniques for sentiment analysis,111,2012,https://dl.acm.org/doi/abs/10.1145/2401603.2401605,12
+32,"Sharma, S Dey",A comparative study of feature selection and machine learning techniques for sentiment analysis,111,2012,https://dl.acm.org/doi/abs/10.1145/2401603.2401605,12
+106,"Derrac, C Cornelis, S García, F Herrera",Enhancing evolutionary instance selection algorithms by means of fuzzy rough set based feature selection,108,2012,https://www.sciencedirect.com/science/article/pii/S0020025511004841,12
+107,"Hu, X Zhu, D Cheng, W He, Y Yan, J Song, S Zhang",Graph self-representation method for unsupervised feature selection,102,2017,https://www.sciencedirect.com/science/article/pii/S0925231216305458,26
+28," Ahmed, R Qahwaji, T Colak, PA Higgins…","Solar flare prediction using advanced feature extraction, machine learning, and feature selection",97,2013,https://link.springer.com/article/10.1007/s11207-011-9896-1,12
+40," Ahmed, R Qahwaji, T Colak, PA Higgins…","Solar flare prediction using advanced feature extraction, machine learning, and feature selection",97,2013,https://link.springer.com/article/10.1007/s11207-011-9896-1,12
+102," Zhang, ZH Zhou",Improve multi-instance neural networks through feature selection,94,2004,https://link.springer.com/article/10.1023/B:NEPL.0000016836.03614.9f,6
+91," Singhi, H Liu",Feature subset selection bias for classification learning,91,2006,https://dl.acm.org/doi/abs/10.1145/1143844.1143951,6
+74,Mladenić,Feature selection for dimensionality reduction,90,2005,https://link.springer.com/chapter/10.1007/11752790_5,6
+68,"Jurado, À Nebot, F Mugica, N Avellana",Hybrid methodologies for electricity load forecasting: Entropy-based feature selection with machine learning and soft computing techniques,86,2015,https://www.sciencedirect.com/science/article/pii/S0360544215004934,14
+90,"Bouktif, A Fiaz, A Ouni, MA Serhani",Optimal deep learning lstm model for electric load forecasting using feature selection and genetic algorithm: Comparison with machine learning approaches,79,2018,https://www.mdpi.com/1996-1073/11/7/1636,26
+54,"Micheletti, L Foresti, S Robert, M Leuenberger…",Machine learning feature selection methods for landslide susceptibility mapping,76,2014,https://link.springer.com/article/10.1007/s11004-013-9511-0,11
+93,"Fragoudis, D Meretakis, S Likothanassis",Best terms: an efficient feature-selection algorithm for text categorization,74,2005,https://link.springer.com/article/10.1007/s10115-004-0177-2,5
+37,"Miao, L Niu",A survey on feature selection,72,2016,https://www.sciencedirect.com/science/article/pii/S1877050916313047,14
+78,"Cai, D Xu, Q Zhang, J Zhang, SM Ngai…",Classification of lung cancer using ensemble-based feature selection and machine learning methods,69,2015,https://pubs.rsc.org/en/content/articlehtml/2014/mb/c4mb00659c,12
+103," Durant, MD Smith",Predicting the political sentiment of web log posts using supervised machine learning techniques coupled with feature selection,63,2006,https://link.springer.com/chapter/10.1007/978-3-540-77485-3_11,4
+71," Semwal, J Singha, PK Sharma, A Chauhan…",An optimized feature selection technique based on incremental feature analysis for bio-metric gait data classification,60,2017,https://link.springer.com/article/10.1007/s11042-016-4110-y,15
+109," Kosmicki, V Sochat, M Duda, DP Wall",Searching for a minimal set of behaviors for autism detection through feature selection-based machine learning,56,2015,https://www.nature.com/articles/tp20157,9
+83,Kotsiantis,Feature selection for machine learning classification problems: a recent overview,55,2011,https://wwwnew.cs.upc.edu/~bejar/URL/articulos/Feature%20selection%202011%20Kotsiantis.pdf,6
+58, A,Machine-learning-based feature selection techniques for large-scale network intrusion detection,35,2014,https://ieeexplore.ieee.org/abstract/document/6888858/,5
+85," Alejandre, NC Cortés…",Feature selection to detect botnets using machine learning algorithms,27,2017,https://ieeexplore.ieee.org/abstract/document/7891834/,7
+44,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+77,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+55,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+99,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+33,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+88,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+66,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+22,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+11,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0
+110,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=feature+selection+machine+learning&hl=en&as_sdt=0,5",0

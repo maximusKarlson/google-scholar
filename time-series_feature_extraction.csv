@@ -1,0 +1,111 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+27,"Grinsted, JC Moore, S Jevrejeva",Application of the cross wavelet transform and wavelet coherence to geophysical time series,3441,0,https://hal.archives-ouvertes.fr/hal-00302394/,2
+13,"Faloutsos, M Ranganathan, Y Manolopoulos",Fast subsequence matching in time-series databases,2417,1994,https://dl.acm.org/doi/abs/10.1145/191843.191925,90
+96,"Eyben, M Wöllmer, B Schuller",Opensmile: the munich versatile and fast open-source audio feature extractor,1373,2010,https://dl.acm.org/doi/abs/10.1145/1873951.1874246,125
+46,"Muda, M Begam, I Elamvazuthi",Voice recognition algorithms using mel frequency cepstral coefficient (MFCC) and dynamic time warping (DTW) techniques,728,2010,https://arxiv.org/abs/1003.4083,66
+85,"Sohn, CR Farrar",Damage diagnosis using time series analysis of vibration signals,696,2001,https://iopscience.iop.org/article/10.1088/0964-1726/10/3/304,35
+34," Yen, KC Lin",Wavelet packet feature extraction for vibration monitoring,660,2000,https://ieeexplore.ieee.org/abstract/document/847906/,31
+23,"Yang, MN Nguyen, PP San, XL Li…",Deep convolutional neural networks on multichannel time series for human activity recognition,487,2015,https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/10710,81
+39,"Keogh, S Lonardi, BY Chiu",Finding surprising patterns in a time series database in linear time and space,485,2002,https://dl.acm.org/doi/abs/10.1145/775047.775128,26
+45,"Kalpakis, D Gada, V Puttagunta",Distance measures for effective clustering of ARIMA time-series,480,2001,https://ieeexplore.ieee.org/abstract/document/989529/,24
+37,"Wang, K Smith, R Hyndman",Characteristic-based clustering for time series data,374,2006,https://link.springer.com/article/10.1007/s10618-005-0039-x,25
+19,Geurts,Pattern extraction for time series classification,368,2001,https://link.springer.com/chapter/10.1007/3-540-44794-6_10,18
+67,"Jenke, A Peer, M Buss",Feature extraction and selection for emotion recognition from EEG,336,2014,https://ieeexplore.ieee.org/abstract/document/6858031/,48
+92,"Kakizawa, RH Shumway…",Discrimination and clustering for multivariate time series,321,1998,https://amstat.tandfonline.com/doi/abs/10.1080/01621459.1998.10474114,14
+32,"R Reis, APA Da Silva",Feature extraction via multiresolution analysis for short-term load forecasting,304,2005,https://ieeexplore.ieee.org/abstract/document/1388509/,19
+102," Ruiz, V Hristidis, C Castillo, A Gionis…",Correlating financial time series with micro-blogging activity,302,2012,https://dl.acm.org/doi/abs/10.1145/2124295.2124358,34
+68,"Rokni, A Ahmad, A Selamat, S Hazini",Water feature extraction and change detection using multitemporal Landsat imagery,286,2014,https://www.mdpi.com/2072-4292/6/5/4173,41
+60,"Last, Y Klein, A Kandel",Knowledge discovery in time series databases,278,2001,https://ieeexplore.ieee.org/abstract/document/907576/,14
+31,"Jahankhani, V Kodogiannis…",EEG signal classification using wavelet feature extraction and neural networks,269,2006,https://ieeexplore.ieee.org/abstract/document/4022049/,18
+25,"Nanopoulos, R Alcock…",Feature-based classification of time-series data,267,2001,https://www.researchgate.net/profile/Yannis_Manolopoulos/publication/234800113_Feature-based_Classification_of_Time-series_Data/links/56b3237008ae795dd5c84b8e/Feature-based-Classification-of-Time-series-Data.pdf,13
+72,"Vogt, E André",Comparing feature sets for acted and spontaneous speech in view of automatic emotion recognition,263,2005,https://ieeexplore.ieee.org/abstract/document/1521463/,16
+51,"Liu, RH Weisberg…",Performance evaluation of the self‐organizing map for feature extraction,247,2006,https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2005JC003117,16
+84,"Wang, D Miao, C Xie",Best basis-based wavelet packet entropy feature extraction and hierarchical EEG classification for epileptic detection,239,2011,https://www.sciencedirect.com/science/article/pii/S0957417411008803,24
+5, Olszewski,Generalized feature extraction for structural pattern recognition in time-series data,230,2001,https://apps.dtic.mil/docs/citations/ADA457624,12
+40,"Rosipal, M Girolami, LJ Trejo, A Cichocki",Kernel PCA for feature extraction and de-noising in nonlinear regression,217,2001,https://link.springer.com/article/10.1007/s521-001-8051-z,11
+29,"McKay, I Fujinaga, P Depalle",jAudio: A feature extraction library,214,2005,https://www.academia.edu/download/45376075/2103.pdf,13
+35,"Kampouraki, G Manis, C Nikou",Heartbeat time series classification with support vector machines,212,2008,https://ieeexplore.ieee.org/abstract/document/4588343/,16
+1,Mörchen,Time series feature extraction for data mining using DWT and DFT,211,2003,http://mybytes.de/papers/moerchen03time.pdf,12
+36,"Yoon, K Yang, C Shahabi",Feature subset selection and feature ranking for multivariate time series,205,2005,https://ieeexplore.ieee.org/abstract/document/1490526/,13
+42,"Mierswa, K Morik",Automatic feature extraction for classifying audio data,201,2005,https://link.springer.com/article/10.1007/s10994-005-5824-7,13
+30," Baydogan, G Runger, E Tuv",A bag-of-features framework to classify time series,197,2013,https://ieeexplore.ieee.org/abstract/document/6497440/,25
+100,Hyvärinen,Complexity pursuit: separating interesting components from time series,196,2001,https://www.mitpressjournals.org/doi/abs/10.1162/089976601300014394,10
+81,"Li, W Zhou, Q Yuan, S Geng, D Cai",Feature extraction and recognition of ictal EEG using EMD and SVM,189,2013,https://www.sciencedirect.com/science/article/pii/S0010482513000905,24
+4,"Deng, G Runger, E Tuv, M Vladimir",A time series forest for classification and feature extraction,180,2013,https://www.sciencedirect.com/science/article/pii/S0020025513001473,22
+6," Fulcher, NS Jones",Highly comparative feature-based time-series classification,177,2014,https://ieeexplore.ieee.org/abstract/document/6786425/,25
+97," Ralanamahatana, J Lin, D Gunopulos…",Mining time series data,176,2005,https://link.springer.com/chapter/10.1007/0-387-25465-X_51,11
+80,"Karim, S Majumdar, H Darabi, S Chen",LSTM fully convolutional networks for time series classification,173,2017,https://ieeexplore.ieee.org/abstract/document/8141873/,43
+43," Moon, KY Whang, WK Loh",Duality-based subsequence matching in time-series databases,171,2001,https://ieeexplore.ieee.org/abstract/document/914837/,9
+58,"Xing, J Pei, PS Yu, K Wang",Extracting interpretable features for early classification on time series,161,2011,https://epubs.siam.org/doi/abs/10.1137/1.9781611972818.22,16
+98," Burke, SP Kelly, P De Chazal…",A parametric feature extraction and classification strategy for brain-computer interfacing,158,2005,https://ieeexplore.ieee.org/abstract/document/1406016/,10
+83,"Cui, W Chen, Y Chen",Multi-scale convolutional neural networks for time series classification,155,2016,https://arxiv.org/abs/1603.06995,31
+53,Sternickel,Automatic pattern recognition in ECG time series,151,2002,https://www.sciencedirect.com/science/article/pii/S0169260701001687,8
+76,"Samiee, P Kovacs, M Gabbouj",Epileptic seizure classification of EEG time-series using rational discrete short-time Fourier transform,143,2014,https://ieeexplore.ieee.org/abstract/document/6909003/,20
+57, Kadous,Learning Comprehensible Descriptions of Multivariate Time Series.,137,1999,https://sites.google.com/site/waleedkadous/publications/icml99.pdf,6
+18," Eads, D Hill, S Davis, SJ Perkins…",Genetic algorithms and support vector machines for time series classification,137,2002,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4787/0000/Genetic-Algorithms-and-Support-Vector-Machines-for-Time-Series-Classification/10.1117/12.453526.short,7
+63,"Ahlstrom, P Hult, P Rask, JE Karlsson…",Feature extraction for systolic heart murmur classification,136,2006,https://link.springer.com/article/10.1007/s10439-006-9187-4,9
+93,"Formisano, F De Martino, G Valente",Multivariate analysis of fMRI time series: classification and regression of brain responses using machine learning,136,2008,https://www.sciencedirect.com/science/article/pii/S0730725X08000775,10
+78,"Song, P Liò",A new approach for epileptic seizure detection: sample entropy based feature extraction and extreme learning machine,132,2010,https://www.scirp.org/html/1987.html,12
+101,"Hunter, N McIntosh",Knowledge-based event detection in complex time series data,125,1999,https://link.springer.com/chapter/10.1007/3-540-48720-4_30,6
+105,"Zhao, M Sun, W Deng, X Yang",A new feature extraction method based on EEMD and multi-scale fuzzy entropy for motor bearing,109,2017,https://www.mdpi.com/1099-4300/19/1/14,27
+7,"Coyle, G Prasad, TM McGinnity",A time-series prediction approach for feature extraction in a brain-computer interface,108,2005,https://ieeexplore.ieee.org/abstract/document/1556602/,7
+12,"Laptev, J Yosinski, LE Li, S Smyl",Time-series extreme event forecasting with neural networks at uber,107,2017,http://roseyu.com/time-series-workshop/submissions/TSW2017_paper_3.pdf,27
+50,"Zhang, B Yang, L Huang",Feature extraction of EEG signals using power spectral entropy,93,2008,https://ieeexplore.ieee.org/abstract/document/4549210/,7
+15,"Wang, KK Teo, Z Lin",Predicting time series with wavelet packet neural networks,92,2001,https://ieeexplore.ieee.org/abstract/document/938397/,5
+104," Rodríguez, CJ Alonso",Support vector machines of interval-based features for time series classification,91,2004,https://link.springer.com/chapter/10.1007/1-84628-102-4_18,5
+8,"Zhang, TB Ho, Y Zhang, MS Lin",Unsupervised feature extraction for time series clustering using orthogonal wavelet transform,90,2006,http://www.informatica.si/index.php/informatica/article/viewFile/98/91,6
+73,"Tan, F Dong, M Wu",Identification of gas/liquid two-phase flow regime through ERT-based measurement and feature extraction,86,2007,https://www.sciencedirect.com/science/article/pii/S0955598607000660,6
+2,"Christ, N Braun, J Neuffer, AW Kemp",Time series feature extraction on basis of scalable hypothesis tests (tsfresh–a python package),84,2018,https://www.sciencedirect.com/science/article/pii/S0925231218304843,28
+20,"Kashino, G Smith, H Murase",Time-series active search for quick retrieval of audio and video,84,1999,https://ieeexplore.ieee.org/abstract/document/757470/,4
+28,"Kavitha, M Punithavalli",Clustering time series data stream-a literature survey,84,2010,https://arxiv.org/abs/1005.4270,8
+21," Zuo, J Lin, X Fan",Feature separation using ICA for a one-dimensional time series and its application in fault detection,83,2005,https://www.sciencedirect.com/science/article/pii/S0022460X05001185,5
+3,"Christ, AW Kemp",Distributed and parallel time series feature extraction for industrial big data applications,81,2016,https://arxiv.org/abs/1610.07717,16
+106," Rissanen, M Kankaanpää, A Meigal…",Surface EMG and acceleration signals in Parkinson's disease: feature extraction and cluster analysis,81,2008,https://link.springer.com/article/10.1007/s11517-008-0369-0,6
+69,"Huhtala, J Karkkainen…",Mining for similarities in aligned time series using wavelets,80,1999,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/3695/0000/Mining-for-similarities-in-aligned-time-series-using-wavelets/10.1117/12.339977.short,4
+47," Jade, B Srikanth, VK Jayaraman…",Feature extraction and denoising using kernel PCA,79,2003,https://www.sciencedirect.com/science/article/pii/S0009250903003403,4
+54," Bao, X Liu, C Zhang",PyEEG: an open source python module for EEG/MEG feature extraction,77,2011,https://www.hindawi.com/journals/cin/2011/406391/?source=post_page-----58aae90351e5----------------------,8
+103,He,Time–frequency manifold for nonlinear feature extraction in machinery fault diagnosis,76,2013,https://www.sciencedirect.com/science/article/pii/S088832701200324X,10
+38,"Weng, J Shen",Classification of multivariate time series using two-dimensional singular value decomposition,68,2008,https://www.sciencedirect.com/science/article/pii/S0950705108000580,5
+75,"Zabalza, J Ren, Z Wang, S Marshall…",Singular spectrum analysis for effective feature extraction in hyperspectral imaging,64,2014,https://ieeexplore.ieee.org/abstract/document/6797888/,9
+10,"Jovic, N Bogunovic",Feature extraction for ECG time-series mining based on chaos theory,62,2007,https://ieeexplore.ieee.org/abstract/document/4283745/,4
+82,"Desai, K Dhameliya, V Desai",Feature extraction and classification techniques for speech recognition: A review,60,2013,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.433.7519&rep=rep1&type=pdf,8
+87,"Hyvarinen, H Morioka",Unsupervised feature extraction by time-contrastive learning and nonlinear ICA,60,2016,http://papers.nips.cc/paper/6394-unsupervised-feature-extraction-by-time-contrastive-learning-and-nonlinear-ica,12
+24,"Räsänen, M Kolehmainen",Feature-based clustering for electricity use time series data,58,2009,https://link.springer.com/chapter/10.1007/978-3-642-04921-7_41,5
+91," Cao, WK Chong","Feature extraction in support vector machine: a comparison of PCA, XPCA and ICA",58,2002,https://ieeexplore.ieee.org/abstract/document/1198211/,3
+70," Rajan, PJW Rayner",Generalized feature extraction for time-varying autoregressive models,55,1996,https://ieeexplore.ieee.org/abstract/document/539034/,2
+108,"Bahrampour, A Ray, S Sarkar, T Damarla…",Performance comparison of feature extraction algorithms for target detection and classification,51,2013,https://www.sciencedirect.com/science/article/pii/S0167865513002547,6
+16,"Phinyomark, F Quaine, S Charbonnier…",Feature extraction of the first difference of EMG time series for EMG pattern recognition,46,2014,https://www.sciencedirect.com/science/article/pii/S0169260714002478,7
+94,"Yin, C Gao, X Jia",Using Hurst and Lyapunov exponent for hyperspectral image feature extraction,43,2012,https://ieeexplore.ieee.org/abstract/document/6138289/,5
+107,"Meng, D Niu, W Sun",Forecasting monthly electric energy consumption using feature extraction,41,2011,https://www.mdpi.com/1996-1073/4/10/1495,4
+14," Susto, A Schirru, S Pampuri…",Supervised aggregative feature extraction for big data time series regression,38,2015,https://ieeexplore.ieee.org/abstract/document/7312962/,6
+74," van Wyk, MA van Wyk, G Qi",Difference histograms: A new tool for time series analysis applied to bearing fault diagnosis,36,2009,https://www.sciencedirect.com/science/article/pii/S016786550900004X,3
+9,"Batal, M Hauskrecht",A supervised time series feature extraction technique using dct and dwt,35,2009,https://ieeexplore.ieee.org/abstract/document/5381326/,3
+17,"Eads, K Glocer, S Perkins…",Grammar-guided feature extraction for time series classification,34,2005,https://pdfs.semanticscholar.org/4404/86e4bfcb35af7b00b781ec91c18ce50cc0f6.pdf,2
+26," Fulcher, NS Jones",hctsa: A computational framework for automated time-series phenotyping using massive feature extraction,34,2017,https://www.sciencedirect.com/science/article/pii/S2405471217304386,8
+49,"Cabrera, F Sancho, C Li, M Cerrada…",Automatic feature extraction of time-series applied to fault severity assessment of helical gearbox in stationary and non-stationary speed operation,28,2017,https://www.sciencedirect.com/science/article/pii/S1568494617301886,7
+64," Glezakos, TA Tsiligiridis, LS Iliadis, CP Yialouris…",Feature extraction for time-series data: An artificial neural network evolutionary training model for the management of mountainous watersheds,25,2009,https://www.sciencedirect.com/science/article/pii/S0925231209002434,2
+59,"P Man, MH Wong",Efficient and robust feature extraction and pattern matching of time series by a lattice structure,22,2001,https://dl.acm.org/doi/abs/10.1145/502585.502631,1
+41," Cavalcante, LL Minku…",Fedd: Feature extraction for explicit concept drift detection in time series,22,2016,https://ieeexplore.ieee.org/abstract/document/7727274/,4
+56,"Gupta, A Mittal, K Singh",A time-series-based feature extraction approach for prediction of protein structural class,21,2008,https://link.springer.com/article/10.1155/2008/235451,2
+79,"Chamroukhi, A Samé, G Govaert…",A regression model with a hidden logistic process for feature extraction from time series,18,2009,https://ieeexplore.ieee.org/abstract/document/5178921/,2
+52,"Schirru, GA Susto, S Pampuri…",Learning from time series: Supervised aggregative feature extraction,18,2012,https://ieeexplore.ieee.org/abstract/document/6427042/,2
+62," Sandya, P Hemanth Kumar…",Fuzzy rule based feature extraction and classification of time series signal,17,2013,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.457.4192&rep=rep1&type=pdf,2
+48,"Zhang, T Ho, W Huang",Blind feature extraction for time-series classification using haar wavelet transform,17,2005,https://link.springer.com/chapter/10.1007/11427445_99,1
+61,Mierswa,Automatic feature extraction from large time series,16,2005,https://link.springer.com/chapter/10.1007/3-540-28084-7_71,1
+71,"Zhou, T Wu",Trend feature extraction method based on important points in time series,16,2007,http://en.cnki.com.cn/Article_en/CJFDTotal-ZDZC200711003.htm,1
+86," Zhou, KCC Chan",A feature extraction method for multivariate time series classification using temporal patterns,15,2015,https://link.springer.com/chapter/10.1007/978-3-319-18032-8_32,2
+65,"Zhang, TB Ho, MS Lin, X Liang",Feature extraction for time series classification using discriminating wavelet coefficients,14,2006,https://link.springer.com/chapter/10.1007/11759966_207,1
+89," Chen, WD Jin",Feature extraction of radar emitter signals based on symbolic time series analysis,14,2007,https://ieeexplore.ieee.org/abstract/document/4421631/,1
+90,"Réjichi, F Chaabane",Feature extraction using PCA for VHR satellite image time series spatio-temporal classification,13,2015,https://ieeexplore.ieee.org/abstract/document/7325806/,2
+109,"Røislien, B Winje",Feature extraction across individual time series observations with spikes using wavelet principal component analysis,12,2013,https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.5797,2
+95,"Ouyang, X Sun, D Yue",Hierarchical time series feature extraction for power consumption anomaly detection,7,2017,https://link.springer.com/chapter/10.1007/978-981-10-6364-0_27,2
+66,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+99,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+55,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+77,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+88,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+44,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+33,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+22,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+11,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
+110,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=time-series+feature+extraction&hl=en&as_sdt=0,5",0
