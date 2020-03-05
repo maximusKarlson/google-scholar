@@ -1,0 +1,112 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+52,"Freund, RE Schapire",Experiments with a new boosting algorithm,9518,1996,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.6252&rep=rep1&type=pdf,381
+8, Friedman,Greedy function approximation: a gradient boosting machine,9369,2001,https://www.jstor.org/stable/2699986,468
+3,"Chen, C Guestrin",Xgboost: A scalable tree boosting system,4901,2016,https://dl.acm.org/doi/abs/10.1145/2939672.2939785,980
+63," Schapire, Y Singer",Improved boosting algorithms using confidence-rated predictions,4166,1999,https://link.springer.com/article/10.1023/A:1007614523901,189
+79,"Freund, R Schapire, N Abe",A short introduction to boosting,3526,1999,http://www.yorku.ca/gisweb/eats4400/boost.pdf,160
+102,"Bauer, R Kohavi","An empirical comparison of voting classification algorithms: Bagging, boosting, and variants",2910,1999,https://link.springer.com/article/10.1023/A:1007515423169,132
+77, Dietterich,"An experimental comparison of three methods for constructing ensembles of decision trees: Bagging, boosting, and randomization",2733,2000,https://link.springer.com/article/10.1023/A:1007607513941,130
+21," Schapire, Y Singer",BoosTexter: A boosting-based system for text categorization,2662,2000,https://link.springer.com/article/10.1023/A:1007649029923,127
+29,"Freund, R Iyer, RE Schapire, Y Singer",An efficient boosting algorithm for combining preferences,2366,2003,http://www.jmlr.org/papers/v4/freund03a.html,131
+13, Quinlan,"Bagging, boosting, and C4. 5",2082,1996,http://www.cs.ecu.edu/~dingq/CSCI6905/readings/BaggingBoosting.pdf,83
+2, Schapire,The boosting approach to machine learning: An overview,2033,2003,https://link.springer.com/chapter/10.1007/978-0-387-21579-2_9,113
+58, Schapire,A brief introduction to boosting,1406,1999,https://192.5.53.208/~stefanko/Teaching/09CS446/Boosting2.pdf,64
+53,"Grabner, H Bischof",On-line boosting and vision,1347,2006,https://ieeexplore.ieee.org/abstract/document/1640768/,90
+4,"Dai, Q Yang, GR Xue, Y Yu",Boosting for transfer learning,1284,2007,https://dl.acm.org/doi/abs/10.1145/1273496.1273521,92
+103,"Xu, H Li",Adarank: a boosting algorithm for information retrieval,821,2007,https://dl.acm.org/doi/abs/10.1145/1277741.1277809,59
+26,"Ke, Q Meng, T Finley, T Wang, W Chen…",Lightgbm: A highly efficient gradient boosting decision tree,797,2017,http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision,199
+72,"Mason, J Baxter, PL Bartlett…",Boosting algorithms as gradient descent,783,2000,http://papers.nips.cc/paper/1766-boosting-algorithms-as-gradient-descent.pdf,37
+80, Webb,Multiboosting: A technique for combining boosting and wagging,748,2000,https://link.springer.com/article/10.1023/A:1007659514849,36
+1," Schapire, Y Freund",Boosting: Foundations and algorithms,661,2013,https://www.emerald.com/insight/content/doi/10.1108/03684921311295547/full/html,83
+7,"Meir, G Rätsch",An introduction to boosting and leveraging,587,2003,https://link.springer.com/chapter/10.1007/3-540-36434-X_4,33
+18,"Guo, HL Viktor",Learning from imbalanced data sets with boosting and data generation: the databoost-im approach,573,2004,https://dl.acm.org/doi/abs/10.1145/1007730.1007736,34
+88,"Demiriz, KP Bennett, J Shaw",Linear programming boosting via column generation,493,2002,https://link.springer.com/article/10.1023/A:1012470815092,26
+33," Lee, J Lessler, EA Stuart",Improving propensity score weighting using machine learning,484,2010,https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.3782,44
+32,Ridgeway,The state of boosting,447,1999,https://sites.google.com/site/gregridgeway/papers-and-software/interface99.pdf,20
+20,H Mamitsuka,Query learning strategies using boosting and bagging,432,1998,https://www.researchgate.net/profile/Naoki_Abe2/publication/221345332_Query_Learning_Strategies_Using_Boosting_and_Bagging/links/5441464b0cf2e6f0c0f60abf.pdf,19
+11,"Natekin, A Knoll","Gradient boosting machines, a tutorial",421,2013,https://www.frontiersin.org/articles/10.3389/fnbot.2013.00021,53
+35,"Zhang, Y Ma",Ensemble machine learning: methods and applications,383,2012,https://link.springer.com/content/pdf/10.1007/978-1-4419-9326-7.pdf,43
+97,"Valentini, F Masulli",Ensembles of learning machines,359,2002,https://link.springer.com/chapter/10.1007/3-540-45808-5_1,19
+99,"Zhang, B Yu",Boosting with early stopping: Convergence and consistency,348,2005,https://projecteuclid.org/euclid.aos/1123250222,22
+57," Mallapragada, R Jin, AK Jain…",Semiboost: Boosting for semi-supervised learning,341,2008,https://ieeexplore.ieee.org/abstract/document/4633363/,26
+9,"Chen, T He, M Benesty, V Khotilovich…",Xgboost: extreme gradient boosting,316,2015,http://cran.fhcrc.org/web/packages/xgboost/vignettes/xgboost.pdf,53
+95,"Schwenk, Y Bengio",Boosting neural networks,303,2000,https://www.mitpressjournals.org/doi/abs/10.1162/089976600300015178,14
+31," Weng, J Reps, J Kai, JM Garibaldi, N Qureshi",Can machine-learning improve cardiovascular risk prediction using routine clinical data?,276,2017,https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0174944,69
+76, Ting,A comparative study of cost-sensitive boosting algorithms,273,2000,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.37.8819,13
+50,"Yao, G Doretto",Boosting for transfer learning with multiple sources,260,2010,https://ieeexplore.ieee.org/abstract/document/5539857/,24
+98,"Reyzin, RE Schapire",How boosting the margin can also boost classifier complexity,230,2006,https://dl.acm.org/doi/abs/10.1145/1143844.1143939,15
+15,"Zheng, H Zha, T Zhang, O Chapelle…",A general boosting method and its application to learning ranking functions for web search,215,2008,http://papers.nips.cc/paper/3305-a-general-boosting-method-and-its-application-to-learning-ranking-f,17
+90,"Lu, KN Plataniotis…",Ensemble-based discriminant learning with boosting for face recognition,209,2006,https://ieeexplore.ieee.org/abstract/document/1593701/,14
+38,"Escudero, L Màrquez, G Rigau",Boosting applied to word sense disambiguation,207,2000,https://link.springer.com/chapter/10.1007/3-540-45164-1_14,10
+59,"Zhang, A Haghani",A gradient boosting method to improve travel time prediction,197,2015,https://www.sciencedirect.com/science/article/pii/S0968090X15000741,33
+51,"Bloehdorn, A Hotho",Boosting for text classification with semantic features,195,2004,https://link.springer.com/chapter/10.1007/11899402_10,11
+41,"Abney, RE Schapire, Y Singer",Boosting applied to tagging and PP attachment,172,1999,https://www.aclweb.org/anthology/W99-0606.pdf,8
+105,"Duffy, D Helmbold",Boosting methods for regression,168,2002,https://link.springer.com/article/10.1023/A:1013685603443,9
+47,"Scholz, R Klinkenberg",Boosting classifiers for drifting concepts,167,2007,https://content.iospress.com/articles/intelligent-data-analysis/ida00271,12
+107,"Kohannim, X Hua, DP Hibar, S Lee, YY Chou…",Boosting power for clinical trials using classifiers based on multiple biomarkers,162,2010,https://www.sciencedirect.com/science/article/pii/S0197458010001879,15
+39," Dietterich, A Ashenfelter, Y Bulatov",Training conditional random fields via gradient tree boosting,156,2004,https://dl.acm.org/doi/abs/10.1145/1015330.1015428,9
+44," Schapire, M Rochery, M Rahim, N Gupta",Incorporating prior knowledge into boosting,148,2002,http://rob.schapire.net/papers/boostknowledge.pdf,8
+24, Quinlan,Boosting first-order learning,148,1996,https://link.springer.com/chapter/10.1007/3-540-61863-5_42,6
+17,"Mayr, H Binder, O Gefeller…",The evolution of boosting algorithms,144,0,https://www.thieme-connect.com/products/ejournals/html/10.3414/ME13-01-0122,0
+60,"Hothorn, P Bühlmann, T Kneib, M Schmid…",Model-based boosting 2.0,139,2010,http://www.jmlr.org/papers/v11/hothorn10a.html,13
+54,"Tsuruoka, J Tsujii",Boosting precision and recall of dictionary-based protein name recognition,138,2003,https://dl.acm.org/citation.cfm?id=1118964,8
+36,"Kotsiantis, P Pintelas",Combining bagging and boosting,130,2004,https://pdfs.semanticscholar.org/f237/943ad85ea3ba28fd75686ec29785b2ba086b.pdf,8
+94,"Hertz, A Ba",Boosting margin based distance functions for clustering,129,2004,https://dl.acm.org/doi/abs/10.1145/1015330.1015389,8
+16,"Pardoe, P Stone",Boosting for regression transfer,119,2010,https://dl.acm.org/doi/abs/10.5555/3104322.3104432,11
+86, Friedman,Recent advances in predictive (machine) learning,112,2006,https://link.springer.com/article/10.1007/s00357-006-0012-4,7
+30,Masnad,Asymmetric boosting,110,2007,https://dl.acm.org/doi/abs/10.1145/1273496.1273573,8
+74,"Duchi, Y Singer",Boosting with structural sparsity,106,2009,https://dl.acm.org/doi/abs/10.1145/1553374.1553412,9
+109,Kotsiantis,"Combining bagging, boosting, rotation forest and random subspace methods",104,2011,https://link.springer.com/article/10.1007/s10462-010-9192-8,10
+48,"Bühlmann, B Yu",Sparse boosting,103,2006,http://www.jmlr.org/papers/v7/buehlmann06a.html,7
+85,"Pavlov, J Mao, B Dom",Scaling-up support vector machines using boosting algorithm,102,2000,https://ieeexplore.ieee.org/abstract/document/906052/,5
+84,"Freund, RE Schapire",Schapire R: Experiments with a new boosting algorithm,100,1996,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.380.9055,4
+64,"Benbouzid, R Bus",MultiBoost: a multi-purpose boosting package,96,2012,http://www.jmlr.org/papers/v13/benbouzid12a.html,11
+22,"Chen, L Huang, D Xie, Q Zhao",EGBMMDA: extreme gradient boosting machine for MiRNA-disease association prediction,93,2018,https://www.nature.com/articles/s41419-017-0003-x,31
+91,"Auer, R Ortner",A boosting approach to multiple instance learning,91,2004,https://link.springer.com/chapter/10.1007/978-3-540-30115-8_9,5
+14," Li, ZQ Zhang, L Zhu",Method for boosting the performance of machine-learning classifiers,90,2006,https://patents.google.com/patent/US7024033B2/en,6
+108,Ą GarcÃ,Nonlinear boosting projections for ensemble construction,90,2007,http://www.jmlr.org/papers/v8/garcia-pedrajas07a.html,6
+70,"Shen, J Kim, L Wang, A Hengel",Positive semidefinite metric learning using boosting-like algorithms,85,2012,http://www.jmlr.org/papers/v13/shen12a.html,9
+110,"Robinson, B Dilkina, J Hubbs, W Zhang…",Machine learning approaches for estimating commercial building energy consumption,81,2017,https://www.sciencedirect.com/science/article/pii/S0306261917313429,20
+92,"Vezhnevets, O Barinova",Avoiding boosting overfitting by removing confusing samples,79,2007,https://link.springer.com/chapter/10.1007/978-3-540-74958-5_40,6
+96,Gonzále,Genome-wide prediction of discrete traits using Bayesian regressions and machine learning,77,2011,https://link.springer.com/article/10.1186/1297-9686-43-7,8
+83,"Babajide Mustapha, F Saeed",Bioactive molecule prediction using extreme gradient boosting,75,2016,https://www.mdpi.com/1420-3049/21/8/983,15
+55," Ferreira, MAT Figueiredo","Boosting algorithms: A review of methods, theory, and applications",74,2012,https://link.springer.com/chapter/10.1007/978-1-4419-9326-7_2,8
+81, Lloyd,GEFCom2012 hierarchical load forecasting: Gradient boosting machines and Gaussian processes,73,2014,https://www.sciencedirect.com/science/article/pii/S0169207013000757,10
+75,Breiman,Population theory for boosting ensembles,71,2004,https://projecteuclid.org/euclid.aos/1079120126,4
+69,Li,Multiclass boosting with repartitioning,67,2006,https://dl.acm.org/doi/abs/10.1145/1143844.1143916,4
+106,"Fan, X Wang, L Wu, H Zhou, F Zhang, X Yu…",Comparison of Support Vector Machine and Extreme Gradient Boosting for predicting daily global solar radiation using temperature and precipitation in humid …,67,2018,https://www.sciencedirect.com/science/article/pii/S0196890418302048,22
+73,"Tsymbal, S Puuronen",Bagging and boosting with dynamic integration of classifiers,65,2000,https://link.springer.com/chapter/10.1007/3-540-45372-5_12,3
+62,"Tian, M Shao, Y Wang, J Guan, S Zhou",Boosting compound-protein interaction prediction by deep learning,62,2016,https://www.sciencedirect.com/science/article/pii/S1046202316301992,12
+66,"Paris, D Robilliard, C Fonlupt",Applying boosting techniques to genetic programming,61,2001,https://link.springer.com/chapter/10.1007/3-540-46033-0_22,3
+43," Hoang, MH Le, KH Jo",Hybrid cascade boosting machine using variant scale blocks based HOG features for pedestrian detection,60,2014,https://www.sciencedirect.com/science/article/pii/S0925231214000277,9
+25," Li, ZQ Zhang, L Zhu",Method for boosting the performance of machine-learning classifiers,60,2006,https://patents.google.com/patent/US7099505B2/en,4
+104,"Sun, AKC Wong, Y Wang",Parameter inference of cost-sensitive boosting algorithms,59,2005,https://link.springer.com/chapter/10.1007/11510888_3,4
+28," Rodríguez, CJ Alonso…",Boosting interval based literals,58,2001,https://content.iospress.com/articles/intelligent-data-analysis/ida00053,3
+27,Nielsen,"Tree boosting with xgboost-why does xgboost win"" every"" machine learning competition?",58,2016,https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2433761/16128_FULLTEXT.pdf,12
+82,A,Adaptive boosting for transfer learning using dynamic updates,56,2011,https://link.springer.com/chapter/10.1007/978-3-642-23780-5_14,6
+37,"Pybus, P Luisi, GM Dall'Olio, M Uzkudun…",Hierarchical boosting: a machine-learning framework to detect and classify hard selective sweeps in human populations,55,2015,https://academic.oup.com/bioinformatics/article-abstract/31/24/3946/197410,9
+40,"Belayneh, J Adamowski, B Khalil, J Quilty",Coupling machine learning methods with wavelet transforms and the bootstrap and boosting ensemble approaches for drought prediction,54,2016,https://www.sciencedirect.com/science/article/pii/S016980951600003X,11
+68,"Qin, F Gao, G Chen",Wastewater quality monitoring system using sensor fusion and machine learning techniques,52,2012,https://www.sciencedirect.com/science/article/pii/S0043135411007779,6
+87,"Cortes, M Mohri, U Syed",Deep boosting,48,2014,http://www.jmlr.org/proceedings/papers/v32/cortesb14.pdf,7
+6,"Touzani, J Granderson, S Fernandes",Gradient boosting machine for modeling the energy consumption of commercial buildings,47,2018,https://www.sciencedirect.com/science/article/pii/S0378778817320844,16
+19,"Drucker, C Cortes, LD Jackel, Y LeCun…",Boosting and other machine learning algorithms,44,1994,https://www.sciencedirect.com/science/article/pii/B9781558603356500155,2
+101," Rodríguez, CJ Alonso, H Boström",Learning first order logic time series classifiers: Rules and boosting,44,2000,https://link.springer.com/chapter/10.1007/3-540-45372-5_29,2
+65," Atkinson, TM Therneau, LJ Melton III…",Assessing fracture risk using gradient boosting machine (GBM) models,38,2012,https://onlinelibrary.wiley.com/doi/abs/10.1002/jbmr.1577,4
+49," Li, ZQ Zhang, L Zhu",Method for boosting the performance of machine-learning classifiers,35,2006,https://patents.google.com/patent/US7016881B2/en,2
+46,"Brillante, F Gaiotti, L Lovat, S Vincenzi…","Investigating the use of gradient boosting machine, random forest and their ensemble to predict skin flavonoid content from berry physical–mechanical characteristics …",27,2015,https://www.sciencedirect.com/science/article/pii/S0168169915002276,4
+71," Huynh, SM Park, YG Kim",Detection of driver drowsiness using 3D deep neural network and semi-supervised gradient boosting machine,24,2016,https://link.springer.com/chapter/10.1007/978-3-319-54526-4_10,5
+10,"Lei, H Sun, Y Kang, F Zhu, H Liu, W Zhou…",ADMET evaluation in drug discovery. 18. Reliable prediction of chemical-induced urinary tract toxicity by boosting machine learning approaches,22,2017,https://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.7b00631,6
+42,"Aler, IM Galván, JA Rui",Improving the separation of direct and diffuse solar radiation components using machine learning by gradient boosting,21,2017,https://www.sciencedirect.com/science/article/pii/S0038092X17303870,5
+93, Ayyadevara,Gradient boosting machine,6,2018,https://link.springer.com/chapter/10.1007/978-1-4842-3564-5_6,2
+61,"Elhenawy, H Rakha",Congestion prediction using adaptive boosting machine learning classifiers,5,2014,https://trid.trb.org/view/1287507,1
+56,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+100,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+89,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+78,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+67,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+45,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+34,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+23,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+12,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+5,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=boosting+machine+learning&hl=en&as_sdt=0,5",0
+111,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=boosting+machine+learning&hl=en&as_sdt=0,5",0

@@ -1,0 +1,111 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+82,Día,Gene selection and classification of microarray data using random forest,2334,2006,https://link.springer.com/article/10.1186/1471-2105-7-3,156
+64,"Strobl, AL Boulesteix, A Zeileis, T Hothorn","Bias in random forest variable importance measures: Illustrations, sources and a solution",1771,2007,https://link.springer.com/article/10.1186/1471-2105-8-25,126
+89,"Svetnik, A Liaw, C Tong, JC Culberson…",Random forest: a classification and regression tool for compound classification and QSAR modeling,1673,2003,https://pubs.acs.org/doi/abs/10.1021/ci034160g,93
+92,Schielzeth,Simple means to improve the interpretability of regression coefficients,1496,2010,https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.2041-210X.2010.00012.x,136
+104,"Ham, Y Chen, MM Crawford…",Investigation of the random forest framework for classification of hyperspectral data,710,2005,https://ieeexplore.ieee.org/abstract/document/1396322/,44
+20,"Letham, C Rudin, TH McCormick…",Interpretable classifiers using rules and bayesian analysis: Building a better stroke prediction model,326,2015,https://projecteuclid.org/euclid.aoas/1446488742,54
+47,"Lakkaraju, SH Bach, J Leskovec",Interpretable decision sets: A joint framework for description and prediction,252,2016,https://dl.acm.org/doi/abs/10.1145/2939672.2939874,50
+108,"Strobl, T Hothorn, A Zeileis",Party on!,224,0,https://epub.ub.uni-muenchen.de/9387/1/techreport.pdf,0
+81,Molnar,Interpretable machine learning,212,2019,https://books.google.com/books?hl=en&lr=&id=jBm3DwAAQBAJ&oi=fnd&pg=PP1&dq=interpretability+random+forest&ots=EfzSYrGFT0&sig=NcOFlxMuudvVQii__Jn2nv9HyCE,106
+91,Rodrigue,"Machine learning predictive models for mineral prospectivity: An evaluation of neural networks, random forest, regression trees and support vector machines",200,2015,https://www.sciencedirect.com/science/article/pii/S0169136815000037,33
+46,"Ali, R Khan, N Ahmad…",Random forests and decision trees,189,2012,http://www.uetpeshawar.edu.pk/TRP-G/Dr.Nasir-Ahmad-TRP/Journals/2012/Random%20Forests%20and%20Decision%20Trees.pdf,21
+78," Evans, MA Murphy, ZA Holden…",Modeling species distribution and change using random forest,186,2011,https://link.springer.com/chapter/10.1007/978-1-4419-7390-0_8,19
+10,Qi,Random forest for bioinformatics,186,2012,https://link.springer.com/chapter/10.1007/978-1-4419-9326-7_11,21
+27," Ribeiro, S Singh, C Guestrin",Model-agnostic interpretability of machine learning,152,2016,https://arxiv.org/abs/1606.05386,30
+34,"Zeng, B Ustun, C Rudin",Interpretable classification models for recidivism prediction,119,2017,https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12227,30
+28,"Segal, Y Xiao",Multivariate random forests,110,2011,https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.12,11
+1,"Song, P Langfelder, S Horvath",Random generalized linear model: a highly accurate and interpretable ensemble predictor,87,2013,https://link.springer.com/article/10.1186/1471-2105-14-5,11
+35,"Kumar, R Srivastava, S Srivastava",Detection and classification of cancer from microscopic biopsy images using clinically significant and biologically interpretable features,79,2015,https://www.hindawi.com/archive/2015/457906/abs/,13
+40,Guha,On the interpretation and interpretability of quantitative structure–activity relationship models,73,2008,https://link.springer.com/article/10.1007/s10822-008-9240-5,6
+80,"Millard, M Richardson","Wetland mapping with LiDAR derivatives, SAR polarimetric decompositions, and LiDAR–SAR fusion using a random forest classifier",70,2013,https://www.tandfonline.com/doi/abs/10.5589/m13-038,9
+103,Scornet,Random forests and kernel methods,69,2016,https://ieeexplore.ieee.org/abstract/document/7373647/,14
+52,"Wang, C Rudin, F Dosh",A bayesian framework for learning rule sets for interpretable classification,59,2017,https://dl.acm.org/doi/abs/10.5555/3122009.3176814,15
+26," Shortridge, SD Guikema…","Machine learning methods for empirical streamflow simulation: a comparison of model accuracy, interpretability, and uncertainty in seasonal watersheds.",54,2016,https://pdfs.semanticscholar.org/592e/da84a2aed39162e70d3c7dc94342d5ab848e.pdf,11
+30,"Valdes, JM Luna, E Eaton, CB Simone II, LH Ungar…",MediBoost: a patient stratification tool for interpretable decision making in the era of precision medicine,53,2016,https://www.nature.com/articles/srep37854,11
+96,"Hajjem, F Bellavance, D Larocque",Mixed-effects random forest for clustered data,53,2014,https://www.tandfonline.com/doi/abs/10.1080/00949655.2012.741599,8
+32,"Basu, K Kumbier, JB Brown…",Iterative random forests to discover predictive and stable high-order interactions,50,2018,https://www.pnas.org/content/115/8/1943.short,17
+68,"Syed, G Yona",Enzyme function prediction with interpretable models,49,2009,https://link.springer.com/protocol/10.1007/978-1-59745-243-4_17,4
+83,Deng,Guided random forest in the RRF package,49,2013,https://arxiv.org/abs/1306.0237,6
+19," Enot, M Beckmann, D Overy…","Predicting interpretability of metabolome models based on behavior, putative identity, and biological relevance of explanatory signals",45,2006,https://www.pnas.org/content/103/40/14865.short,3
+56," Kuz'min, PG Polishchuk, AG Artemenko…",Interpretation of QSAR models based on random forest methods,44,2011,https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.201000173,4
+5,"Hara, K Hayashi",Making tree ensembles interpretable,44,2016,https://arxiv.org/abs/1606.05390,9
+15,"Tolomei, F Silvestri, A Haines, M Lalmas",Interpretable predictions of tree-based ensembles via actionable feature tweaking,44,2017,https://dl.acm.org/doi/abs/10.1145/3097983.3098039,11
+71,"Martín, M Pereda, JI Santos, JM Galán",Assessment of resistance spot welding quality based on ultrasonic testing and tree-based techniques,42,2014,https://www.sciencedirect.com/science/article/pii/S0924013614001964,6
+4," Huang, KY Huang, TY Lee…",An interpretable rule-based diagnostic classification of diabetic nephropathy among type 2 diabetes patients,40,2015,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S1-S5,7
+17,Flore,Enhancing accuracy and interpretability of ensemble strategies in credit risk assessment. A correlated-adjusted decision forest proposal,38,2015,https://www.sciencedirect.com/science/article/pii/S0957417415001499,6
+93,"Eliasson, S Rannar, J Trygg",From data processing to multivariate validation-essential steps in extracting interpretable information from metabolomics data,38,2011,https://www.ingentaconnect.com/content/ben/cpb/2011/00000012/00000007/art00004,4
+86,Alvare,On the robustness of interpretability methods,38,2018,https://arxiv.org/abs/1806.08049,13
+70," Murdoch, C Singh, K Kumbier, R Abbas","Interpretable machine learning: definitions, methods, and applications",38,2019,https://arxiv.org/abs/1901.04592,19
+6,"Jiang, H Yang, F Sun, T Chen",Searching for interpretable rules for disease mutations: a simulated annealing bump hunting strategy,36,2006,https://link.springer.com/article/10.1186/1471-2105-7-417,2
+36," Keefer, GW Kauffman, RR Gupta","Interpretable, probability-based confidence metric for continuous quantitative structure–activity relationship models",36,2013,https://pubs.acs.org/doi/abs/10.1021/ci300554t,4
+65,"Nagrecha, JZ Dillon, NV Chawla",MOOC dropout prediction: lessons learned from making pipelines interpretable,34,2017,https://dl.acm.org/doi/abs/10.1145/3041021.3054162,8
+31,"Letham, C Rudin, TH McCormick…",Building interpretable classifiers with rules using Bayesian analysis,34,2012,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.300.4630&rep=rep1&type=pdf,4
+84,"Jo, J Cheng",Improving protein fold recognition by random forest,33,2014,https://link.springer.com/article/10.1186/1471-2105-15-S11-S14,5
+101,"Jovanovic, S Radovanovic, M Vukicevic…",Building interpretable predictive models for pediatric hospital readmission using Tree-Lasso logistic regression,32,2016,https://www.sciencedirect.com/science/article/pii/S0933365715300671,6
+25," De Bock, D Van den Poel",Reconciling performance and interpretability in customer churn prediction using ensemble learning based on generalized additive models,32,2012,https://www.sciencedirect.com/science/article/pii/S0957417412000164,4
+9,"Molnar, G Casalicchio, B Bischl",iml: An R package for interpretable machine learning,30,2018,https://joss.theoj.org/papers/10.21105/joss.00786.pdf,10
+87," Tian, GM James",Interpretable dimension reduction for classifying functional data,30,2013,https://www.sciencedirect.com/science/article/pii/S0167947312002587,4
+2,"Pereira, R Meier, R McKinley, R Wiest, V Alves…",Enhancing interpretability of automatically extracted machine learning features: application to a RBM-Random Forest system on brain lesion segmentation,28,2018,https://www.sciencedirect.com/science/article/pii/S1361841517301901,9
+14,"Bastani, C Kim, H Bastani",Interpretability via model extraction,27,2017,https://arxiv.org/abs/1706.09773,7
+53,"Wang, R Fujimaki, Y Motohashi",Trading interpretability for accuracy: Oblique treed sparse additive models,27,2015,https://dl.acm.org/doi/abs/10.1145/2783258.2783407,4
+57,"Wang, C Rudin, F Vele",Bayesian rule sets for interpretable classification,27,2016,https://ieeexplore.ieee.org/abstract/document/7837984/,5
+76,Otte,Safe and interpretable machine learning: A methodological review,27,2013,https://link.springer.com/chapter/10.1007/978-3-642-32378-2_8,3
+38,"Johansson, C Sönströd, U Norinder…",Trade-off between accuracy and interpretability for predictive in silico modeling,25,2011,https://www.future-science.com/doi/abs/10.4155/fmc.11.23,2
+3," Marchese Robinson, A Palczewska…",Comparison of the predictive performance and interpretability of random forest and linear models on benchmark data sets,24,2017,https://pubs.acs.org/doi/abs/10.1021/acs.jcim.6b00753,6
+98,"Joly, F Schnitzler, P Geurts…",L1-based compression of random forest models,22,2012,https://orbi.uliege.be/handle/2268/112824,2
+23,"Mishra, BL Sturm, S Dixon",Local Interpretable Model-Agnostic Explanations for Music Content Analysis.,20,2017,https://pdfs.semanticscholar.org/8b0a/16b2475798ed1b5f5cffed62a47e1ef30c7d.pdf,5
+37,"Ling, M Hutchinson, E Antono, B DeCost, EA Holm…",Building data-driven models with microstructural images: Generalization and interpretability,19,2017,https://www.sciencedirect.com/science/article/pii/S235292451730042X,5
+100,"Wang, C Rudin, F Doshi, Y Liu, E Klampfl…",Bayesian or's of and's for interpretable classification with application to context aware recommender systems,18,2015,https://pdfs.semanticscholar.org/ee43/4531203bf7609c9648f78eacf4b7ea750dd0.pdf,3
+69," Brisimi, T Xu, T Wang, W Dai…",Predicting chronic disease hospitalizations from electronic health records: an interpretable classification approach,18,2018,https://ieeexplore.ieee.org/abstract/document/8283520/,6
+49,"Hara, K Hayashi",Making tree ensembles interpretable: A Bayesian model selection approach,18,2016,https://arxiv.org/abs/1606.09066,4
+12," Katuwal, R Chen",Machine learning model interpretability for precision medicine,17,2016,https://arxiv.org/abs/1610.09045,3
+45,"Ragab, M E",Fault diagnosis in industrial chemical processes using interpretable patterns based on Logical Analysis of Data,17,2018,https://www.sciencedirect.com/science/article/pii/S0957417417307984,6
+102,"Karimi, D Wu, Z Wang, Y Shen",DeepAffinity: interpretable deep learning of compound–protein affinity through unified recurrent and convolutional neural networks,16,2019,https://academic.oup.com/bioinformatics/article-abstract/35/18/3329/5320555,8
+21,"Liu, S Dissanayake, S Patel…",Learning accurate and interpretable models based on regularized random forests regression,16,2014,https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-8-S3-S5,2
+16,"Baseman, S Blanchard…",Interpretable anomaly detection for monitoring of high performance computing systems,15,2016,https://pdfs.semanticscholar.org/7c74/655b13e4977a5c4f4076e3cc6abb87db2a50.pdf,3
+62,"Petkovic, RB Altman, M Wong, A Vigil",Improving the explainability of Random Forest classifier-user centered approach.,15,2018,https://www.worldscientific.com/doi/abs/10.1142/9789813235533_0019,5
+85,"Dhurandhar, V Iyengar, R Luss…",Tip: Typifying the interpretability of procedures,14,2017,https://arxiv.org/abs/1706.02952,4
+60,"Obermann, S Waack",Demonstrating non-inferiority of easy interpretable methods for insolvency prediction,14,2015,https://www.sciencedirect.com/science/article/pii/S0957417415005485,2
+61,"Fuchs, J Gertheiss, G Tutz",Nearest neighbor ensembles for functional data with interpretable feature selection,14,2015,https://www.sciencedirect.com/science/article/pii/S0169743915001100,2
+13," Tan, G Hooker, MT Wells",Tree space prototypes: Another look at making tree ensembles interpretable,13,2016,https://arxiv.org/abs/1611.07115,3
+106,"Guo, T Lin, Y Lu",An interpretable LSTM neural network for autoregressive exogenous model,13,2018,https://arxiv.org/abs/1804.05251,4
+43,"Gao, N Liu, M Lawley, X Hu",An interpretable classification framework for information extraction from online healthcare forums,12,2017,https://www.hindawi.com/journals/jhe/2017/2460174/abs/,3
+41,"Hu, J Chen, VN Nair, A Sudjianto",Locally interpretable models and effects based on supervised partitioning (LIME-SUP),12,2018,https://arxiv.org/abs/1806.00663,4
+18,"Liu, X Wang, S Matwin",Interpretable deep convolutional neural networks via meta-learning,12,2018,https://ieeexplore.ieee.org/abstract/document/8489172/,4
+51,"Puri, P Gupta, P Agarwal, S Verma…",Magix: Model agnostic globally interpretable explanations,12,2017,https://arxiv.org/abs/1706.07160,3
+74,"Zhang, EB Laber, M Davidian…",Interpretable dynamic treatment regimes,11,2018,https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1345743,4
+24,"Wang, D Wang, N Geng, Y Wang, Y Yin, Y Jin",Stacking-based ensemble learning of decision trees for interpretable prostate cancer detection,11,2019,https://www.sciencedirect.com/science/article/pii/S1568494619300195,6
+39,"Hall, N Gill, M Kurka, W Phan",Machine learning interpretability with h2o driverless ai,10,2017,https://pdfs.semanticscholar.org/f49b/9c36512f6929794439c3368f8df03a3969ca.pdf,2
+54,"Lee, MJ Kochenderfer, OJ Mengshoel…",Interpretable categorization of heterogeneous time series data,9,2018,https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.25,3
+7,"K Phung, VTN Chau…",Extracting rule RF in educational data classification: from a random forest to interpretable refined rules,9,2015,https://ieeexplore.ieee.org/abstract/document/7422370/,2
+29," Berge, OC Granmo, TO Tveit, M Goodwin…",Using the Tsetlin machine to learn human-interpretable rules for high-accuracy text categorization with medical applications,9,2019,https://ieeexplore.ieee.org/abstract/document/8798633/,4
+75,"Strobl, T Augustin",Adaptive Selection of Extra Cutpoints—Towards Reconciling Robustness and Interpretability in Classification Trees,8,2009,https://link.springer.com/article/10.1080/15598608.2009.10411915,1
+48,"Sarkar, T Weyde, A Garcez…",Accuracy and interpretability trade-offs in machine learning applied to safer gambling,7,2016,https://openaccess.city.ac.uk/id/eprint/16484/,1
+58,"Azmi, GC Runger, A Berrado",Interpretable regularized class association rules algorithm for classification in a categorical data space,7,2019,https://www.sciencedirect.com/science/article/pii/S0020025519300544,4
+8,"Botsch, JA Nossek",Construction of interpretable radial basis function classifiers based on the random forest kernel,7,2008,https://ieeexplore.ieee.org/abstract/document/4633793/,1
+42," Sorour, T Mine",Building an interpretable model of predicting student performance using comment data mining,6,2016,https://ieeexplore.ieee.org/abstract/document/7557619/,1
+67," Whitmore, A George, CM Hudson",Mapping chemical performance on molecular structures using locally interpretable explanations,6,2016,https://arxiv.org/abs/1611.07443,1
+95,"Elshawi, MH A",On the interpretability of machine learning-based model for predicting hypertension,6,2019,https://link.springer.com/article/10.1186/s12911-019-0874-0,3
+94,"Gütlein, S Kramer",Filtered circular fingerprints improve either prediction or runtime performance while retaining interpretability,6,2016,https://link.springer.com/article/10.1186/s13321-016-0173-z,1
+90,"Li, L Yang, B Yang, N Wang, T Wu",Application of interpretable machine learning models for the intelligent decision,5,2019,https://www.sciencedirect.com/science/article/pii/S0925231218314668,2
+50,"Azmi, A Berrado",Towards an interpretable rules ensemble algorithm for classification in a categorical data space,4,2015,https://ieeexplore.ieee.org/abstract/document/7358390/,1
+105,"Johansson, C Sönströd…",Accurate and interpretable regression trees using oracle coaching,4,2014,https://ieeexplore.ieee.org/abstract/document/7008667/,1
+73,"Krakovna, J Du, JS Liu",Interpretable selection and visualization of features and interactions using bayesian forests,3,2015,https://arxiv.org/abs/1506.02371,0
+63,"Shi, Z Wang, J Yuan, H Liu",Random pairwise shapelets forest,3,2018,https://link.springer.com/chapter/10.1007/978-3-319-93034-3_6,1
+79,"Nori, S Jenkins, P Koch, R Caruana",InterpretML: A Unified Framework for Machine Learning Interpretability,3,2019,https://arxiv.org/abs/1909.09223,2
+72,"Fernandez, S Rusk, N Glattard…",0067 COMPUTATIONAL PHENOTYPING IN POLYSOMNOGRAPHY: USING INTERPRETABLE PHYSIOLOGY-BASED MACHINE LEARNING MODELS TO PREDICT …,3,2017,https://academic.oup.com/sleep/article-abstract/40/suppl_1/A26/3780959,1
+59, De Ruiter,Mining the forest: interpretable classification models in biology with application to scale-space signals,2,2012,https://repository.tudelft.nl/islandora/object/uuid:269176a2-7c97-4d39-a32d-ca465d9bbf23,0
+97," Whitmore, A George, CM Hudson",Explicating feature contribution using random forest proximity distances,2,2018,https://arxiv.org/abs/1807.06572,1
+107,"De Clercq, Z Wen, F Fei, L Caicedo, K Yuan…",Interpretable machine learning for predicting biomethane production in industrial-scale anaerobic co-digestion,1,2020,https://www.sciencedirect.com/science/article/pii/S0048969719345656,1
+109," Webb, P Krause, JD Vessey",Interpretable Ames mutagenicity predictions using statistical learning techniques,1,2012,https://www.researchgate.net/profile/Samuel_Webb/publication/249334746_Interpretable_Ames_mutagenicity_predictions_using_statistical_learning_techniques/links/0046351e5117ce1e91000000.pdf,0
+33,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+77,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+99,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+88,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+11,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+44,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+66,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+55,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+22,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=interpretability+random+forest&hl=en&as_sdt=0,5",0
+110,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=interpretability+random+forest&hl=en&as_sdt=0,5",0

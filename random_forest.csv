@@ -1,0 +1,112 @@
+Rank,Author,Title,Citations,Year,Source,cit/year
+1,"Liaw, M Wiener",Classification and regression by randomForest,11199,2002,https://www.researchgate.net/profile/Andy_Liaw/publication/228451484_Classification_and_Regression_by_RandomForest/links/53fb24cc0cf20a45497047ab/Classification-and-Regression-by-RandomForest.pdf,589
+3,Día,Gene selection and classification of microarray data using random forest,2334,2006,https://link.springer.com/article/10.1186/1471-2105-7-3,156
+4,"Strobl, AL Boulesteix, A Zeileis, T Hothorn","Bias in random forest variable importance measures: Illustrations, sources and a solution",1771,2007,https://link.springer.com/article/10.1186/1471-2105-8-25,126
+10,"Svetnik, A Liaw, C Tong, JC Culberson…",Random forest: a classification and regression tool for compound classification and QSAR modeling,1673,2003,https://pubs.acs.org/doi/abs/10.1021/ci034160g,93
+2,Pal,Random forest classifier for remote sensing classification,1175,2005,https://www.tandfonline.com/doi/abs/10.1080/01431160412331269698,73
+13, Rodrigue,An assessment of the effectiveness of a random forest classifier for land-cover classification,1077,2012,https://www.sciencedirect.com/science/article/pii/S0924271611001304,120
+9,"Belgiu, L Drăguţ",Random forest in remote sensing: A review of applications and future directions,976,2016,https://www.sciencedirect.com/science/article/pii/S0924271616000265,195
+8,"Ham, Y Chen, MM Crawford…",Investigation of the random forest framework for classification of hyperspectral data,710,2005,https://ieeexplore.ieee.org/abstract/document/1396322/,44
+7," Archer, RV Kimes",Empirical characterization of random forest variable importance measures,604,2008,https://www.sciencedirect.com/science/article/pii/S0167947307003076,46
+31," Lawrence, SD Wood, RL Sheley",Mapping invasive plants using hyperspectral imagery and Breiman Cutler classifications (RandomForest),549,2006,https://www.sciencedirect.com/science/article/pii/S0034425705003792,37
+28,"W Chan, D Paelinckx",Evaluation of Random Forest and Adaboost tree-based ensemble classification and spectral band selection for ecotope mapping using airborne hyperspectral …,548,2008,https://www.sciencedirect.com/science/article/pii/S0034425708000679,42
+20,"Jiang, H Wu, W Wang, W Ma, X Sun…",MiPred: classification of real and pseudo microRNA precursors using random forest prediction model with combined features,488,2007,https://academic.oup.com/nar/article-abstract/35/suppl_2/W339/2923422,35
+16,Grömping,Variable importance assessment in regression: linear regression versus random forest,447,2009,https://www.tandfonline.com/doi/abs/10.1198/tast.2009.08199,37
+35,"Immitzer, C Atzberger, T Koukal",Tree species classification with random forest using very high spatial resolution 8-band WorldView-2 satellite data,424,2012,https://www.mdpi.com/2072-4292/4/9/2661,47
+19,"Mutanga, E Adam, MA Cho",High density biomass estimation for wetland vegetation using WorldView-2 imagery and random forest regression algorithm,421,2012,https://www.sciencedirect.com/science/article/pii/S0303243412000566,47
+6," Oshiro, PS Perez, JA Baranauskas",How many trees in a random forest?,379,2012,https://link.springer.com/chapter/10.1007/978-3-642-31537-4_13,42
+29," Boulesteix, S Janitza, J Kruppa…",Overview of random forest methodology and practical guidance with emphasis on computational biology and bioinformatics,369,2012,https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1072,41
+49," Menze, BM Kelm, R Masuch, U Himmelreich…",A comparison of random forest and its Gini importance with standard chemometric methods for the feature selection and classification of spectral data,347,2009,https://link.springer.com/article/10.1186/1471-2105-10-213,29
+41, Rodrigue,Random Forest classification of Mediterranean land cover using multi-seasonal imagery and multi-seasonal texture,345,2012,https://www.sciencedirect.com/science/article/pii/S0034425711004408,38
+15, Segal,Machine learning benchmarks and random forest regression,327,2004,https://escholarship.org/uc/item/35x3v9t4,19
+11,"Shi, S Horvath",Unsupervised learning with random forest predictors,325,2006,https://amstat.tandfonline.com/doi/abs/10.1198/106186006X94072,22
+27,"Albert, E Aliu, H Anderhub, P Antoranz…",Implementation of the random forest method for the imaging atmospheric Cherenkov telescope MAGIC,323,2008,https://www.sciencedirect.com/science/article/pii/S0168900207024059,25
+18,"Khalilia, S Chakraborty, M Popescu",Predicting disease risks from highly imbalanced data using random forest,298,2011,https://link.springer.com/article/10.1186/1472-6947-11-51,30
+24," Gray, P Aljabar, RA Heckemann, A Hammers…",Random forest-based similarity measures for multi-modal classification of Alzheimer's disease,292,2013,https://www.sciencedirect.com/science/article/pii/S1053811912009834,36
+14,"Biau, E Scornet",A random forest guided tour,287,2016,https://link.springer.com/article/10.1007/s11749-016-0481-7,57
+38,"Oliveira, F Oehler, J Sa",Modeling spatial patterns of fire occurrence in Mediterranean Europe using Multiple Regression and Random Forest,280,2012,https://www.sciencedirect.com/science/article/pii/S0378112712001272,31
+22," Cootes, MC Ionita, C Lindner, P Sauer",Robust and accurate shape model fitting using random forest regression voting,274,2012,https://link.springer.com/chapter/10.1007/978-3-642-33786-4_21,30
+21," Khoshgoftaar, M Golawala…",An empirical study of learning from imbalanced data using random forest,271,2007,https://ieeexplore.ieee.org/abstract/document/4410397/,19
+33,"Del Río, V López, JM Benítez, F Herrera",On the use of MapReduce for imbalanced big data using Random Forest,256,2014,https://www.sciencedirect.com/science/article/pii/S0020025514003272,37
+87," Touw, JR Bayjanov, L Overmars…",Data mining in the Life Sciences with Random Forest: a walk in the park or lost in the jungle?,242,2013,https://academic.oup.com/bib/article-abstract/14/3/315/255469,30
+48,"Jia, Z Liu, X Xiao, B Liu, KC Chou",pSuc-Lys: predict lysine succinylation sites in proteins with PseAAC and ensemble random forest approach,237,2016,https://www.sciencedirect.com/science/article/pii/S0022519316000539,47
+65,"Fraiwan, K Lweesy, N Khasawneh, H Wenz…",Automated sleep stage identification system based on time–frequency analysis of a single EEG channel and random forest classifier,230,2012,https://www.sciencedirect.com/science/article/pii/S0169260711003105,26
+55,"Feng, J Liu, J Gong",UAV remote sensing for urban vegetation mapping using random forest and texture analysis,224,2015,https://www.mdpi.com/2072-4292/7/1/1074,37
+30,"Svetnik, A Liaw, C Tong, T Wang",Application of Breiman's random forest to modeling structure-activity relationships of pharmaceutical molecules,222,2004,https://link.springer.com/chapter/10.1007/978-3-540-25966-4_33,13
+42," Granitto, C Furlanello, F Biasioli…",Recursive feature elimination with random forest for PTR-MS analysis of agroindustrial products,218,2006,https://www.sciencedirect.com/science/article/pii/S0169743906000232,15
+61,"Wiesmeier, F Barthold, B Blank, I Köge",Digital mapping of soil organic matter stocks using Random Forest modeling in a semi-arid steppe ecosystem,216,2011,https://link.springer.com/article/10.1007/s11104-010-0425-z,22
+37,"Qi, J Klei",Random forest similarity for protein-protein interaction prediction from multiple sources,216,2005,https://www.worldscientific.com/doi/abs/10.1142/9789812702456_0050,14
+52," Kandaswamy, KC Chou, T Martinetz…",AFP-Pred: A random forest approach for predicting antifreeze proteins from sequence-derived properties,215,2011,https://www.sciencedirect.com/science/article/pii/S0022519310005849,22
+44," Lin, JA Fang, X Xiao, KC Chou",iDNA-Prot: identification of DNA binding proteins using random forest with grey model,210,2011,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3174210/,21
+26," Palmer, NM O'Boyle, RC Glen…",Random forest models to predict aqueous solubility,208,2007,https://pubs.acs.org/doi/abs/10.1021/ci060164k,15
+93,Rodrigue,"Machine learning predictive models for mineral prospectivity: An evaluation of neural networks, random forest, regression trees and support vector machines",200,2015,https://www.sciencedirect.com/science/article/pii/S0169136815000037,33
+99,"Millard, M Richardson",On the importance of training data sample selection in random forest image classification: A case study in peatland ecosystem mapping,200,2015,https://www.mdpi.com/2072-4292/7/7/8489,33
+71," Shah, JW Bartlett, J Carpenter…",Comparison of random forest and parametric imputation models for imputing missing data using MICE: a CALIBER study,199,2014,https://academic.oup.com/aje/article-abstract/179/6/764/107562,28
+46," Nicodemus, JD Malley…",The behaviour of random forest permutation-based variable importance measures under predictor correlation,197,2010,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-110,18
+17,Qi,Random forest for bioinformatics,186,2012,https://link.springer.com/chapter/10.1007/978-1-4419-9326-7_11,21
+50,"Jiang, W Tang, X Wu, W Fu",A random forest approach to the detection of epistatic interactions in case-control studies,186,2009,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-S1-S65,16
+25," Evans, MA Murphy, ZA Holden…",Modeling species distribution and change using random forest,186,2011,https://link.springer.com/chapter/10.1007/978-1-4419-7390-0_8,19
+54,"Shi, D Seligson, AS Belldegrun, A Palotie…",Tumor classification by tissue microarray profiling: random forest clustering applied to renal cell carcinoma,181,2005,https://www.nature.com/articles/3800322,11
+43,"Du, A Samat, B Waske, S Liu, Z Li",Random forest and rotation forest for fully polarized SAR image classification using polarimetric and spatial features,172,2015,https://www.sciencedirect.com/science/article/pii/S0924271615000611,29
+102,"Ellis, J Kerr, S Godbole, G Lanckriet…",A random forest classifier for the prediction of energy expenditure and type of physical activity from wrist and hip accelerometers,169,2014,https://iopscience.iop.org/article/10.1088/0967-3334/35/11/2191/meta,24
+40," Calle, V Urrea",Letter to the editor: stability of random forest importance measures,168,2011,https://academic.oup.com/bib/article-abstract/12/1/86/243935,17
+58,"Rajagopal, W Xie, Y Li, U Wagner…",RFECS: a random-forest based algorithm for enhancer identification from chromatin state,168,2013,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3597546/,21
+47,"Wang, C Lai, X Chen, B Yang, S Zhao, X Bai",Flood hazard risk assessment model based on random forest,163,2015,https://www.sciencedirect.com/science/article/pii/S0022169415004217,27
+69,"Li, RV Sanchez, G Zurita, M Cerrada…",Gearbox fault diagnosis based on deep random forest fusion of acoustic and vibratory signals,160,2016,https://www.sciencedirect.com/science/article/pii/S0888327016000340,32
+36,"Deng, G Runger",Gene selection with guided regularized random forest,155,2013,https://www.sciencedirect.com/science/article/pii/S0031320313002422,19
+82,"Chen, K Li, Z Tang, K Bilal, S Yu…",A parallel random forest algorithm for big data in a spark cloud computing environment,152,2016,https://ieeexplore.ieee.org/abstract/document/7557062/,30
+94," Ahmad, M Mourshed, Y Rezgui",Trees vs Neurons: Comparison between random forest and ANN for high-resolution prediction of building energy consumption,148,2017,https://www.sciencedirect.com/science/article/pii/S0378778816313937,37
+96,"Ließ, B Glaser, B Huwe",Uncertainty in the spatial prediction of soil texture: comparison of regression tree and Random Forest models,142,2012,https://www.sciencedirect.com/science/article/pii/S0016706111002953,16
+66,"Lindner, PA Bromiley, MC Ionita…",Robust and accurate shape model matching using random forest regression-voting,142,2014,https://ieeexplore.ieee.org/abstract/document/6987312/,20
+73,"Dubath, L Rimoldini, M Süveges…",Random forest automated supervised classification of Hipparcos periodic variable stars,141,2011,https://academic.oup.com/mnras/article-abstract/414/3/2602/1044210,14
+60," Pham, T Kozakaya…",Count forest: Co-voting uncertain number of targets using random forest for crowd density estimation,140,2015,http://openaccess.thecvf.com/content_iccv_2015/html/Pham_COUNT_Forest_CO-Voting_ICCV_2015_paper.html,23
+85,"Lempitsky, M Verhoek, JA Noble, A Blake",Random forest classification for automatic delineation of myocardium in real-time 3D echocardiography,138,2009,https://link.springer.com/chapter/10.1007/978-3-642-01932-6_48,12
+80," Kane, N Price, M Scotch, P Rabinowitz",Comparison of ARIMA and Random Forest time series models for prediction of avian influenza H5N1 outbreaks,136,2014,https://link.springer.com/article/10.1186/1471-2105-15-276,19
+110,Dia,GeneSrF and varSelRF: a web-based tool and R package for gene selection and classification using random forest,131,2007,https://link.springer.com/article/10.1186/1471-2105-8-328,9
+90," Polishchuk, EN Muratov…",Application of random forest approach to QSAR prediction of aquatic toxicity,130,2009,https://pubs.acs.org/doi/abs/10.1021/ci900203n,11
+77,"Lindner, S Thiagarajah, JM Wilkinson…",Fully automatic segmentation of the proximal femur using random forest regression voting,124,2013,https://ieeexplore.ieee.org/abstract/document/6497663/,16
+39," Kulkarni, PK Sinha",Pruning of random forest classifiers: A survey and future directions,121,2012,https://ieeexplore.ieee.org/abstract/document/6282329/,13
+88,"Butaye, H Jacquemyn, M Hermy",Differential colonization causing non‐random forest plant community structure in a fragmented agricultural landscape,119,2001,https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0587.2001.tb00472.x,6
+97,"Cerrada, G Zurita, D Cabrera, RV Sánchez…",Fault diagnosis in spur gears based on genetic algorithm and random forest,114,2016,https://www.sciencedirect.com/science/article/pii/S0888327015003921,23
+32,"Bonissone, JM Cadenas, MC Garrido…",A fuzzy random forest,113,2010,https://www.sciencedirect.com/science/article/pii/S0888613X10000435,10
+101,"Strobl, A Zeileis",Danger: High power!–exploring the statistical properties of a test for random forest variable importance,111,0,https://epub.ub.uni-muenchen.de/2111/,0
+104,"Heung, CE Bulmer, MG Schmidt",Predictive soil parent material mapping at a regional-scale: a random forest approach,109,2014,https://www.sciencedirect.com/science/article/pii/S0016706113003443,16
+74,"Puissant, S Rougier, A Stumpf",Object-oriented mapping of urban trees using Random Forest classifiers,108,2014,https://www.sciencedirect.com/science/article/pii/S0303243413000822,15
+51, Kursa,Robustness of Random Forest-based gene selection methods,107,2014,https://link.springer.com/article/10.1186/1471-2105-15-8,15
+95,"Kumar, M Thenmozhi",Forecasting stock index movement: A comparison of support vector machines and random forest,104,2006,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=876544,7
+63,"Van Essen, C Macaraeg, M Gokhale…","Accelerating a random forest classifier: Multi-core, GP-GPU, or FPGA?",101,2012,https://ieeexplore.ieee.org/abstract/document/6239820/,11
+108,"Hutengs, M Vohland",Downscaling land surface temperatures at regional scales with random forest regression,100,2016,https://www.sciencedirect.com/science/article/pii/S0034425716300992,20
+76,"A Lee, AZ Kouzani, EJ Hu",Random forest based lung nodule classification aided by clustering,100,2010,https://www.sciencedirect.com/science/article/pii/S0895611110000418,9
+70, Stekhoven,missForest: Nonparametric missing value imputation using random forest,98,2015,http://adsabs.harvard.edu/abs/2015ascl.soft05011S,16
+84," Meng, Y Yu, LA Cupples…",Performance of random forest when SNPs are in linkage disequilibrium,98,2009,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-78,8
+68,"Pei, TK Kim, H Zha",Unsupervised random forest manifold alignment for lipreading,90,0,https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Pei_Unsupervised_Random_Forest_2013_ICCV_paper.html,0
+64,"Mascaro, GP Asner, DE Knapp, T Kenned",A tale of two “forests”: Random Forest machine learning aids tropical forest carbon mapping,89,2014,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904849/,13
+105,"Khaidem, S Saha, SR Dey",Predicting the direction of stock market prices using random forest,89,2016,https://arxiv.org/abs/1605.00003,18
+75,"Masetic, A Subasi",Congestive heart failure detection using random forest classifier,88,2016,https://www.sciencedirect.com/science/article/pii/S0169260715303369,18
+59," Alam, ST Vuong",Random forest classification for detecting android malware,88,2013,https://ieeexplore.ieee.org/abstract/document/6682136/,11
+72,"Farnaaz, MA Jabbar",Random forest modeling for network intrusion detection system,87,2016,https://cyberleninka.org/article/n/662657.pdf,17
+92,"Yu, J Yuan, Z Liu",Unsupervised random forest indexing for fast action search,86,2011,https://ieeexplore.ieee.org/abstract/document/5995488/,9
+62,"Bernard, L Heutte, S Adam",Influence of hyperparameters on random forest accuracy,85,2009,https://link.springer.com/chapter/10.1007/978-3-642-02326-2_18,7
+83," Gislason, JA Benediktsson…",Random forest classification of multisource remote sensing and geographic data,85,2004,https://ieeexplore.ieee.org/abstract/document/1368591/,5
+91,"Tang, H Ishwaran",Random forest missing data algorithms,84,2017,https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11348,21
+103,"Petralia, P Wang, J Yang, Z Tu",Integrative random forest for gene regulatory network inference,83,2015,https://academic.oup.com/bioinformatics/article-abstract/31/12/i197/216803,14
+53,"Khan, A Hanbury, J Stoettinger",Skin detection: A random forest approach,80,2010,https://ieeexplore.ieee.org/abstract/document/5651638/,7
+57,"Ren, X Cao, Y Wei, J Sun",Global refinement of random forest,78,2015,http://openaccess.thecvf.com/content_cvpr_2015/html/Ren_Global_Refinement_of_2015_CVPR_paper.html,13
+106,"Liu, M Song, D Tao, Z Liu, L Zhang…",Semi-supervised node splitting for random forest construction,76,2013,http://openaccess.thecvf.com/content_cvpr_2013/html/Liu_Semi-supervised_Node_Splitting_2013_CVPR_paper.html,10
+98,"Akar, O Güngör",Classification of multispectral images using Random Forest algorithm,75,2012,https://www.researchgate.net/profile/Oezlem_Akar/publication/269988946_Classification_of_Multispectral_Images_Using_Random_Forest_Algorithm/links/55d6b72408aed6a199a4e528/Classification-of-Multispectral-Images-Using-Random-Forest-Algorithm.pdf,8
+109," Naghibi, K Ahmadi, A Daneshi","Application of support vector machine, random forest, and genetic algorithm optimized random forest models in groundwater potential mapping",74,2017,https://link.springer.com/article/10.1007/s11269-017-1660-3,18
+79,"Xu, X Guo, Y Ye, J Cheng",An Improved Random Forest Classifier for Text Categorization.,74,2012,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.300.5687&rep=rep1&type=pdf#page=67,8
+81,Livingston,Implementation of Breiman's random forest machine learning algorithm,71,2005,https://datajobs.com/data-science-repo/Random-Forest-[Frederick-Livingston].pdf,4
+86,"Fu, Q Zhang, G Qiu",Random forest for image annotation,70,2012,https://link.springer.com/chapter/10.1007/978-3-642-33783-3_7,8
+107,"Zhang, M Wang",Search for the smallest random forest,50,2009,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2822360/,4
+56,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=40&q=random+forest&hl=en&as_sdt=0,5",0
+100,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=80&q=random+forest&hl=en&as_sdt=0,5",0
+89,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=70&q=random+forest&hl=en&as_sdt=0,5",0
+78,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=60&q=random+forest&hl=en&as_sdt=0,5",0
+67,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=50&q=random+forest&hl=en&as_sdt=0,5",0
+45,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=30&q=random+forest&hl=en&as_sdt=0,5",0
+34,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=20&q=random+forest&hl=en&as_sdt=0,5",0
+23,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=10&q=random+forest&hl=en&as_sdt=0,5",0
+12,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=random+forest&hl=en&as_sdt=0,5",0
+5,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=0&q=random+forest&hl=en&as_sdt=0,5",0
+111,Author not found,Could not catch title,0,0,"Look manually at: https://scholar.google.com/scholar?start=90&q=random+forest&hl=en&as_sdt=0,5",0
